@@ -9,3 +9,6 @@ Once a region has all junctions added, the region will enter preview status. Pre
 
 ### Progress - Active
 Once a region has been reviewed, the region will be active. Once the region is active, it will appear on all full releases.
+
+## Contributing
+Feel free to contribute to the project! To contribute, you must be familiar with programming in Java. Currently, only roads within the United States and Canada will be added.
