@@ -9,4 +9,4 @@ Additional names such as business or bypass are not hyphenated. For example, I-9
 
 Exception to the above: Texas Spur and Loop Routes are added, and will be in the Texas file with names like "spur1" or "loop1". Other Texas routes added would be Farm / Ranch to Market ("farm1", ranch not used), Park ("park"), Recreation ("rec"), and Ranch Road 1 ("ranch1").
 
-All county roads will be added at a later date. When available, they can be accessed in the state's file with a name like            "<county>1", replacing <county> with the county's name. Hyphen rules do apply. Virginia Secondary Routes will also be added later on. Connecticut's unsigned state routes (above 400) will be added initially.
+All county roads will be added at a later date. When available, they can be accessed in the state's file with a name like "county1", replacing county with the county's name. Hyphen rules do apply. Virginia Secondary Routes will also be added later on. Connecticut's unsigned state routes (above 400) will be added initially.
