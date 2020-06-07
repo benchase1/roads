@@ -1,8 +1,5 @@
 This is an under construction application to display and locate road junctions.
 
-CONTRIBUTING:
-Feel free to contribute to the project! To contribute, you must be familiar with programming in Java. Currently, only roads and regions within the United States and Canada will be added. You may add as little as one road or one town, or as much as a whole state / province.
-
 HOW TO NAVIGATE THE DATABASE:
 After downloading, go to the command line and type java <state> (replace with two letter state abbreviation). From there, enter the route number with a state prefix. For example, Massachusetts Route 9 would be "ma9", US 1 would be "us1", and I-90 would be "i90". All are case sensitive.
   
