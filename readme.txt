@@ -8,5 +8,3 @@ In the event of multiple instances, such as US 1A in Maine, input the above code
 Additional names such as business or bypass are not hyphenated. For example, I-90 business would be "i90bus". US 6 bypass would be "us6byp". Names such as "toll", "loop", or "spur" are not added. 
 
 Exception to the above: Texas Spur and Loop Routes are added, and will be in the Texas file with names like "spur1" or "loop1". Other Texas routes added would be Farm / Ranch to Market ("farm1", ranch not used), Park ("park"), Recreation ("rec"), and Ranch Road 1 ("ranch1").
-
-All county roads will be added at a later date. When available, they can be accessed in the state's file with a name like "county1", replacing county with the county's name. Hyphen rules do apply. Virginia Secondary Routes will also be added later on. Connecticut's unsigned state routes (above 400) will be added initially.
