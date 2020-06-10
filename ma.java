@@ -366,6 +366,124 @@ public class ma
             System.out.println("Truro - mile 53.61: US 6");
             System.out.println("Provincetown - mile 62.38: US 6");
         }
+        else if (id.equals("us7")) {
+            System.out.println("Sheffield - mile 2.96: MA 7A");
+            System.out.println("Great Barrington - mile 10.48: MA 23 / MA 41");
+            System.out.println("Great Barrington - mile 11.45: MA 41");
+            System.out.println("Great Barrington - mile 11.94: MA 23 / MA 183");
+            System.out.println("Great Barrington - mile 13.33: MA 183");
+            System.out.println("Stockbridge - mile 18.05: MA 102");
+            System.out.println("Stockbridge - mile 18.41: MA 102");
+            System.out.println("Lenox - mile 22.55: MA 7A");
+            System.out.println("Lenox - mile 23.42: US 20");
+            System.out.println("Lenox - mile 23.71: MA 183");
+            System.out.println("Lenox - mile 25.57: MA 7A");
+            System.out.println("Pittsfield - mile 30.81: US 20");
+            System.out.println("Pittsfield - mile 31.00: MA 9");
+            System.out.println("Pittsfield - mile 31.16: MA 9");
+            System.out.println("Williamstown - mile 47.21: MA 43");
+            System.out.println("Williamstown - mile 49.08: MA 2");
+            System.out.println("Williamstown - mile 51.41: MA 2");
+        }
+        else if (id.equals("ma7a")) {
+            System.out.println("Sheffield - mile 3.00: US 7");
+            System.out.println("Great Barrington - mile 10.52: MA 23 / MA 41");
+            System.out.println("Great Barrington - mile 11.49: MA 41");
+            System.out.println("Great Barrington - mile 11.98: MA 23 / MA 183");
+            System.out.println("Great Barrington - mile 13.37: MA 183");
+            System.out.println("Stockbridge - mile 18.09: MA 102");
+            System.out.println("Stockbridge - mile 18.45: MA 102");
+            System.out.println("Lenox - mile 22.59: MA 7A");
+            System.out.println("Lenox - mile 23.89: MA 183");
+            System.out.println("Lenox - mile 24.09: MA 183");
+            System.out.println("Lenox - mile 24.89: US 7 / US 20");
+        }
+        else if (id.equals("ma8")) {
+            System.out.println("Sandisfield - mile 0.00: CT 8");
+            System.out.println("Sandisfield - mile 4.17: MA 57");
+            System.out.println("Sandisfield - mile 4.23: MA 57");
+            System.out.println("Otis - mile 12.05: MA 23");
+            System.out.println("Otis - mile 12.19: MA 23");
+            System.out.println("Becket - mile 17.64: US 20");
+            System.out.println("Becket - mile 22.86: US 20");
+            System.out.println("Hinsdale - mile 38.10: MA 143");
+            System.out.println("Dalton - mile 41.72: MA 8A / MA 9");
+            System.out.println("Pittsfield- mile 44.12: MA 9");
+            System.out.println("Adams - mile 56.17: MA 116");
+            System.out.println("North Adams - mile 59.48: MA 8A");
+            System.out.println("North Adams - mile 62.17: MA 2");
+            System.out.println("North Adams - mile 62.37: MA 8A");
+            System.out.println("North Adams - mile 63.15: MA 2");
+            System.out.println("Clarksburg - mile 66.64: VT 8 / VT 100");
+        }
+        else if (id.equals("ma8a")) {
+            System.out.println("Did you mean:");
+            System.out.println("ma8a-l: Dalton - Heath");
+            System.out.println("ma8a-u: North Adams");
+        }
+        else if (id.equals("ma8a-l")) {
+            System.out.println("Dalton - mile 0.00: MA 8 / MA 9");
+            System.out.println("Windsor - mile 6.20: MA 9");
+            System.out.println("Savoy - mile 10.60: MA 116");
+            System.out.println("Pittsfield - mile 16.30: MA 116");
+            System.out.println("Charlemont - mile 25.80: MA 2");
+            System.out.println("Charlemont - mile 26.40: MA 2");
+            System.out.println("Heath - mile 35.84: VT 8A");
+        }
+        else if (id.equals("ma8a-u")) {
+            System.out.println("North Adams - mile 0.00: MA 8");
+            System.out.println("North Adams - mile 3.17: MA 2 / MA 8");
+        }
+        else if (id.equals("ma9")) {
+            System.out.println("Pittsfield - mile 0.00: US 20");
+            System.out.println("Pittsfield - mile 0.34: US 7");
+            System.out.println("Pittsfield - mile 0.56: US 7");
+            System.out.println("Pittsfield - mile 3.59: MA 8");
+            System.out.println("Dalton - mile 5.96: MA 8 / MA 8A");
+            System.out.println("Windsor - mile 12.22: MA 8A");
+            System.out.println("Cummington - mile 21.87: MA 112");
+            System.out.println("Goshen - mile 28.85: MA 112");
+            System.out.println("Williamsburg - mile 34.14: MA 143");
+            System.out.println("Northampton - mile 42.35: MA 66");
+            System.out.println("Northampton - mile 42.38: MA 10");
+            System.out.println("Northampton - mile 42.66: US 5 / MA 10");
+            System.out.println("Northampton - mile 43.73: I-91");
+            System.out.println("Hadley - mile 45.60: MA 47");
+            System.out.println("Hadley - mile 48.36: MA 116");
+            System.out.println("Amherst - mile 49.77: MA 116");
+            System.out.println("Belchertown - mile 58.70: US 202");
+            System.out.println("Belchertown - mile 59.63: MA 21");
+            System.out.println("Ware - mile 68.97: MA 32");
+            System.out.println("Ware - mile 70.57: MA 32");
+            System.out.println("West Brookfield - mile 74.79: MA 19 / MA 67");
+            System.out.println("West Brookfield - mile 75.89: MA 67");
+            System.out.println("Brookfield - mile 78.58: MA 148");
+            System.out.println("Spencer - mile 83.44: MA 49");
+            System.out.println("Spencer - mile 85.00: MA 31");
+            System.out.println("Spencer - mile 85.15: MA 31");
+            System.out.println("Leicester - mile 90.00: MA 56");
+            System.out.println("Worcester - mile 94.29: MA 12");
+            System.out.println("Worcester - mile 95.47: MA 122 / MA 122A");
+            System.out.println("Worcester - mile 96.11: MA 12 / MA 122A");
+            System.out.println("Worcester - mile 96.98: MA 70");
+            System.out.println("Worcester - mile 97.23: I-290");
+            System.out.println("Shrewsbury - mile 101.57: MA 140");
+            System.out.println("Northboro - mile 103.70: US 20");
+            System.out.println("Westboro - mile 105.59: MA 135");
+            System.out.println("Westboro - mile 107.54: MA 30");
+            System.out.println("Westboro - mile 109.07: I-495");
+            System.out.println("Southboro - mile 111.12: MA 85");
+            System.out.println("Framingham - mile 113.76: I-90");
+            System.out.println("Framingham - mile 116.10: MA 30");
+            System.out.println("Framingham - mile 117.12: MA 30");
+            System.out.println("Framingham - mile 117.44: MA 30 / MA 126");
+            System.out.println("Natick - mile 119.96: MA 27");
+            System.out.println("Wellesley - mile 112.55: MA 16");
+            System.out.println("Wellesley - mile 126.55: I-95");
+            System.out.println("Boston - mile 134.60: MA 2A");
+            System.out.println("Boston - mile 135.06: I-90");
+            System.out.println("Boston - mile 135.31: MA 28");
+        }
         else {
             System.out.println("Not a valid route.");  
         }
