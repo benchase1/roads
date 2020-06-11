@@ -1,0 +1,16 @@
+Sandisfield - mile 0.00: CT 8
+Sandisfield - mile 4.17: MA 57
+Sandisfield - mile 4.23: MA 57
+Otis - mile 12.05: MA 23
+Otis - mile 12.19: MA 23
+Becket - mile 17.64: US 20
+Becket - mile 22.86: US 20
+Hinsdale - mile 38.10: MA 143
+Dalton - mile 41.72: MA 8A / MA 9
+Pittsfield- mile 44.12: MA 9
+Adams - mile 56.17: MA 116
+North Adams - mile 59.48: MA 8A
+North Adams - mile 62.17: MA 2
+North Adams - mile 62.37: MA 8A
+North Adams - mile 63.15: MA 2
+Clarksburg - mile 66.64: VT 8 / VT 100

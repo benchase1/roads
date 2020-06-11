@@ -1,0 +1,40 @@
+Attleboro - mile 0.29: I-95  
+Attleboro - mile 1.85: MA 123  
+Attleboro - mile 2.04: MA 1A  
+North Attleboro - mile 3.97: I-295  
+North Attleboro - mile 5.24: MA 120  
+North Attleboro - mile 7.32: MA 1A  
+Plainville - mile 8.37: MA 106  
+Plainville - mile 9.99: MA 152  
+Plainville - mile 10.60: I-495  
+Foxboro - mile 13.51: MA 140  
+Sharon - mile 18.60: I-95  
+Walpole - mile 19.26: MA 27  
+Dedham - mile 26.32: I-95 / MA 1A  
+Canton - mile 28.69: I-95  
+Canton - mile 30.05: MA 138  
+Randolph - mile 32.05: MA 24  
+Randolph - mile 32.88: MA 28  
+Braintree - mile 35.09: MA 37  
+Braintree - mile 35.38: MA 3  
+Boston - mile 40.37: MA 3A  
+Boston - mile 45.11: I-90  
+Boston - mile 46.37: MA 1A  
+Boston - mile 46.85: MA 3 / MA 28  
+Boston - mile 47.28: I-93  
+Boston - mile 47.95: MA 99  
+Chelsea - mile 51.33: MA 16  
+Revere - mile 55.22: MA 99  
+Saugus - mile 57.77: MA 129  
+Lynnfield - mile 59.73: MA 129  
+Peabody - mile 60.49: I-95 / MA 128  
+Peabody - mile 61.95: I-95  
+Danvers - mile 63.23: MA 114  
+Danvers - mile 64.90: MA 62  
+Danvers - mile 65.60: I-95  
+Topsfield - mile 68.78: MA 97  
+Rowley - mile 73.82: MA 133  
+Newburyport - mile 81.62: MA 1A / MA 113  
+Salisbury - mile 83.63: MA 110  
+Salisbury - mile 83.81: MA 1A  
+Salisbury - mile 85.95: MA 286  

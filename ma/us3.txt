@@ -1,0 +1,17 @@
+Cambridge - mile 0.00: MA 2A / MA 3
+Cambridge - mile 1.05: MA 2
+Cambridge - mile 3.98: MA 16
+Cambridge - mile 5.44: MA 2
+Cambridge - mile 5.82: MA 2A / MA 16
+Arlington - mile 7.20: MA 60
+Arlington - mile 7.28: MA 60
+Arlington - mile 7.46: MA 2A
+Burlington - mile 13.44: I-95 / MA 3A
+Burlington - mile 14.87: I-95
+Bedford - mile 17.65: MA 62
+Chelmsford - mile 24.69: MA 129
+Chelmsford - mile 25.83: I-495
+Chelmsford - mile 26.57: MA 110
+Chelmsford - mile 28.76: MA 4
+Chelmsford - mile 30.82: MA 40
+Tyngsboro - mile 36.64: MA 113

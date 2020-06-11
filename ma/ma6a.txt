@@ -1,0 +1,12 @@
+Bourne - mile 0.00: US 6
+Sandwich - mile 1.25: MA 130
+Barnstable - mile 10.42: MA 149
+Barnstable - mile 12.23: MA 132
+Dennis - mile 24.12: MA 132
+Brewster - mile 28.19: MA 137
+Brewster - mile 28.25: MA 124
+Orleans - mile 33.08: US 6
+Orleans - mile 34.40: MA 28
+Eastham - mile 34.97: US 6
+Truro - mile 53.61: US 6
+Provincetown - mile 62.38: US 6

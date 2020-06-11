@@ -1,0 +1,48 @@
+Pittsfield - mile 0.00: US 20
+Pittsfield - mile 0.34: US 7
+Pittsfield - mile 0.56: US 7
+Pittsfield - mile 3.59: MA 8
+Dalton - mile 5.96: MA 8 / MA 8A
+Windsor - mile 12.22: MA 8A
+Cummington - mile 21.87: MA 112
+Goshen - mile 28.85: MA 112
+Williamsburg - mile 34.14: MA 143
+Northampton - mile 42.35: MA 66
+Northampton - mile 42.38: MA 10
+Northampton - mile 42.66: US 5 / MA 10
+Northampton - mile 43.73: I-91
+Hadley - mile 45.60: MA 47
+Hadley - mile 48.36: MA 116
+Amherst - mile 49.77: MA 116
+Belchertown - mile 58.70: US 202
+Belchertown - mile 59.63: MA 21
+Ware - mile 68.97: MA 32
+Ware - mile 70.57: MA 32
+West Brookfield - mile 74.79: MA 19 / MA 67
+West Brookfield - mile 75.89: MA 67
+Brookfield - mile 78.58: MA 148
+Spencer - mile 83.44: MA 49
+Spencer - mile 85.00: MA 31
+Spencer - mile 85.15: MA 31
+Leicester - mile 90.00: MA 56
+Worcester - mile 94.29: MA 12
+Worcester - mile 95.47: MA 122 / MA 122A
+Worcester - mile 96.11: MA 12 / MA 122A
+Worcester - mile 96.98: MA 70
+Worcester - mile 97.23: I-290
+Shrewsbury - mile 101.57: MA 140
+Northboro - mile 103.70: US 20
+Westboro - mile 105.59: MA 135
+Westboro - mile 107.54: MA 30
+Westboro - mile 109.07: I-495
+Southboro - mile 111.12: MA 85
+Framingham - mile 113.76: I-90
+Framingham - mile 116.10: MA 30
+Framingham - mile 117.12: MA 30
+Framingham - mile 117.44: MA 30 / MA 126
+Natick - mile 119.96: MA 27
+Wellesley - mile 112.55: MA 16
+Wellesley - mile 126.55: I-95
+Boston - mile 134.60: MA 2A
+Boston - mile 135.06: I-90
+Boston - mile 135.31: MA 28

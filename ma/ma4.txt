@@ -1,0 +1,12 @@
+Lexington - mile 0.00: MA 2 / MA 225
+Lexington - mile 1.40: MA 2A
+Lexington - mile 1.50: MA 2A
+Lexington - mile 4.40: I-95
+Bedford - mile 6.20: MA 62
+Bedford - mile 7.20: MA 62
+Bedford - mile 7.40: MA 225
+Chelmsford - mile 15.50: MA 27
+Chelmsford - mile 15.60: MA 110 / MA 129
+Chelmsford - mile 16.00: I-495
+Chelmsford - mile 18.50: US 3
+Chelmsford - mile 18.26: MA 3A

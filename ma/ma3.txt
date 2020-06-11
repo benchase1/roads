@@ -1,0 +1,21 @@
+Bourne - mile 0.00: US 6 / MA 6A
+Bourne - mile 0.30: US 6 
+Plymouth - mile 2.50: MA 3A
+Plymouth - mile 14.50: US 44
+Plymouth - mile 15.60: US 44
+Kingston - mile 17.80: MA 3A
+Duxbury - mile 19.40: MA 3A
+Duxbury - mile 22.30: MA 14
+Pembroke - mile 26.90: MA 139
+Hanover - mile 31.70: MA 53
+Rockland - mile 34.30: MA 228
+Weymouth - mile 38.10: MA 18
+Braintree - mile 42.60: I-93 / US 1
+Boston - mile 47.59: MA 3A
+Boston - mile 52.33: I-90
+Boston - mile 53.59: MA 1A
+Boston - mile 54.07: I-93 / US 1  
+Boston - mile 54.67: MA 28
+Boston - mile 54.97: MA 28
+Cambridge - mile 56.17: MA 2A
+Cambridge - mile 56.27: US 3

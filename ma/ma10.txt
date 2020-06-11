@@ -1,0 +1,25 @@
+Southwick - mile 0.00: US 202 / CT 10
+Southwick - mile 1.90: MA 168
+Southwick - mile 4.30: MA 57
+Southwick - mile 4.90: MA 57
+Westfield - mile 9.60: US 20
+Westfield - mile 9.90: US 20
+Westfield - mile 11.30: I-90
+Easthampton - mile 21.80: MA 141
+Northampton - mile 26.10: MA 9
+Northampton - mile 26.40: US 5 / MA 9
+Northampton - mile 27.80: I-91
+Northampton - mile 29.60: I-91
+Hatfield - mile 32.15: I-91
+Whately - mile 34.35: I-91
+Whately - mile 37.10: I-91
+Whately - mile 37.40: MA 116
+Deerfield - mile 38.30: MA 116
+Greenfield - mile 46.00: MA 2A
+Greenfield - mile 47.70: MA 2
+Bernardston - mile 52.50: US 5
+Bernardston - mile 52.90: I-91
+Gill - mile 55.50: MA 142
+Northfield - mile 57.50: MA 63
+Northfield - mile 59.90: MA 63
+Northfield - mile 60.70: NH 10

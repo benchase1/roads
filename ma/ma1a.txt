@@ -1,0 +1,42 @@
+ Attleboro - mile 0.00: US 1A 
+ Attleboro - mile 0.41: I-95 
+ Attleboro - mile 1.64: MA 123 
+ Attleboro - mile 1.73: US 1 
+ North Attleboro - mile 3.66: I-295 
+ North Attleboro - mile 4.93: MA 120 
+ North Attleboro - mile 7.01: US 1 
+ Plainville - mile 7.88: MA 106 
+ Wrentham - mile 10.53: I-495 
+ Wrentham - mile 11.28: MA 121 
+ Wrentham - mile 12.74: MA 140 
+ Norfolk - mile 14.99: MA 115 
+ Walpole - mile 19.60: MA 27 
+ Dedham - mile 27.04: I-95 / US 1 
+ Canton - mile 29.41: I-95 
+ Canton - mile 30.77: MA 138 
+ Randolph - mile 32.77: MA 24 
+ Randolph - mile 33.60: MA 28 
+ Braintree - mile 35.81: MA 37 
+ Braintree - mile 36.10: MA 3 
+ Boston - mile 41.09: MA 3A 
+ Boston - mile 45.83: I-90 
+ Boston - mile 47.09: I-93 / US 1 / MA 3 
+ Boston - mile 49.02: I-90 
+ Boston - mile 49.31: MA 145 
+ Revere - mile 51.49: MA 145 
+ Revere - mile 51.85: MA 16 / MA 60 
+ Lynn - mile 57.02: MA 129 
+ Lynn - mile 58.17: MA 129 
+ Salem - mile 61.55: MA 114 
+ Salem - mile 62.33: MA 114 
+ Salem - mile 63.25: MA 107 
+ Beverly - mile 64.45: MA 22 / MA 127 
+ Beverly - mile 65.24: MA 62 
+ Beverly - mile 66.70: MA 97 
+ Beverly - mile 66.90: MA 128 
+ Ipswich - mile 74.60: MA 133 
+ Rowley - mile 78.75: MA 133 
+ Newburyport - mile 87.40: MA 113 
+ Newburyport - mile 87.59: US 1 
+ Salisbury - mile 89.88: US 1 / MA 110 
+ Salisbury - mile 94.12: NH 1A 

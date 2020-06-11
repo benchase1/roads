@@ -1,0 +1,27 @@
+Seekonk - mile 0.88: MA 114A
+Swansea - mile 4.69: MA 136
+Swansea - mile 7.49: I-195
+Swansea - mile 7.75: MA 118
+Somerset - mile 11.38: MA 103 / MA 138
+Fall River - mile 11.72: MA 79 / MA 138
+Fall River - mile 13.48: MA 24
+Westport - mile 17.92: MA 88
+Westport - mile 21.12: MA 117
+New Bedford - mile 25.74: MA 140
+New Bedford - mile 27.56: MA 18
+Fairhaven - mile 29.88: MA 240
+Marion - mile 39.16: MA 105
+Wareham - mile 45.76: MA 28
+Bourne - mile 50.34: MA 25 / MA 28
+Bourne - mile 53.62: MA 3
+Bourne - mile 55.10: MA 6A
+Sandwich - mile 58.82: MA 130
+Barnstable - mile 65.29: MA 149
+Barnstable - mile 68.29: MA 132
+Dennis - mile 77.69: MA 134
+Harwich - mile 81.79: MA 124
+Harwich - mile 84.30: MA 137
+Orleans - mile 88.83: MA 6A
+Eastham - mile 90.88: MA 6A
+Truro - mile 109.45: MA 6A
+Provincetown - mile 117.95: MA 6A

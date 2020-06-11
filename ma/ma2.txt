@@ -1,0 +1,51 @@
+Williamstown - mile 0.00: NY 2 
+Williamstown - mile 3.82: US 7 
+Williamstown - mile 6.22: US 7 
+Williamstown - mile 6.75: MA 43 
+North Adams - mile 11.57: MA 8 
+North Adams - mile 11.74: MA 8A 
+North Adams - mile 12.41: MA 8 
+Charlemont - mile 29.81: MA 8A 
+Charlemont - mile 30.40: MA 8A 
+Buckland - mile 37.39: MA 2A 
+Buckland - mile 37.81: MA 112 
+Shelburne - mile 38.06: MA 2 
+Shelburne - mile 38.94: MA 2A 
+Greenfield - mile 47.40: I-91 / MA 2A 
+Greenfield - mile 50.14: I-91 
+Greenfield - mile 50.79: US 5 / MA 10 
+Greenfield - mile 52.24: MA 2A 
+Erving - mile 57.24: MA 63 
+Erving - mile 64.87: MA 2A 
+Orange - mile 69.79: MA 122 
+Orange - mile 70.68: US 202 
+Athol - mile 75.16: MA 32 
+Phillipston - mile 76.47: MA 2A 
+Phillipston - mile 79.01: US 202 / MA 2A 
+Templeton - mile 83.46: MA 2A / MA 101 
+Gardner - mile 86.50: MA 68 
+Westminster - mile 89.74: MA 140 
+Westminster - mile 91.76: MA 2A / MA 140 
+Fitchburg - mile 94.50: MA 31 
+Leominster - mile 99.28: MA 12 
+Leominster - mile 100.36: MA 13 
+Leominster - mile 101.13: I-190 
+Lancaster - mile 103.50: MA 70 
+Harvard - mile 109.35: MA 110 / MA 111 
+Littleton - mile 113.30: I-495 
+Acton - mile 117.61: MA 27 
+Acton - mile 118.01: MA 111 
+Concord - mile 120.47: MA 2A / MA 111 / MA 119 
+Concord - mile 121.69: MA 62 
+Concord - mile 123.90: MA 126 
+Concord - mile 124.82: MA 2A 
+Lexington - mile 128.53: I-95 / MA 128 
+Lexington - mile 131.46: MA 4 / MA 225 
+Arlington - mile 133.69: MA 60 
+Cambridge - mile 135.01: US 3 / MA 16 
+Cambridge - mile 136.35: MA 16 
+Cambridge - mile 139.28: US 3 
+Boston - mile 139.53: US 20 
+Boston - mile 140.45: US 20 
+Boston - mile 140.88: MA 2A 
+Boston - mile 141.56: MA 28 
