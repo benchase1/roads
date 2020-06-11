@@ -1,491 +1,267 @@
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
-public class ma
-{
-    public static void main(String [] args)
-    {
-        Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter route: ");
-        String id = input.nextLine();
-
-        if (id.equals("us1")) {
-            System.out.println("Attleboro - mile 0.29: I-95");
-            System.out.println("Attleboro - mile 1.85: MA 123");
-            System.out.println("Attleboro - mile 2.04: MA 1A");
-            System.out.println("North Attleboro - mile 3.97: I-295");
-            System.out.println("North Attleboro - mile 5.24: MA 120");
-            System.out.println("North Attleboro - mile 7.32: MA 1A");
-            System.out.println("Plainville - mile 8.37: MA 106");
-            System.out.println("Plainville - mile 9.99: MA 152");
-            System.out.println("Plainville - mile 10.60: I-495");
-            System.out.println("Foxboro - mile 13.51: MA 140");
-            System.out.println("Sharon - mile 18.60: I-95");
-            System.out.println("Walpole - mile 19.26: MA 27");
-            System.out.println("Dedham - mile 26.32: I-95 / MA 1A");
-            System.out.println("Canton - mile 28.69: I-95");
-            System.out.println("Canton - mile 30.05: MA 138");
-            System.out.println("Randolph - mile 32.05: MA 24");
-            System.out.println("Randolph - mile 32.88: MA 28");
-            System.out.println("Braintree - mile 35.09: MA 37");
-            System.out.println("Braintree - mile 35.38: MA 3");
-            System.out.println("Boston - mile 40.37: MA 3A");
-            System.out.println("Boston - mile 45.11: I-90");
-            System.out.println("Boston - mile 46.37: MA 1A");
-            System.out.println("Boston - mile 46.85: MA 3 / MA 28");
-            System.out.println("Boston - mile 47.28: I-93");
-            System.out.println("Boston - mile 47.95: MA 99");
-            System.out.println("Chelsea - mile 51.33: MA 16");
-            System.out.println("Revere - mile 55.22: MA 99");
-            System.out.println("Saugus - mile 57.77: MA 129");
-            System.out.println("Lynnfield - mile 59.73: MA 129");
-            System.out.println("Peabody - mile 60.49: I-95 / MA 128");
-            System.out.println("Peabody - mile 61.95: I-95");
-            System.out.println("Danvers - mile 63.23: MA 114");
-            System.out.println("Danvers - mile 64.90: MA 62");
-            System.out.println("Danvers - mile 65.60: I-95");
-            System.out.println("Topsfield - mile 68.78: MA 97");
-            System.out.println("Rowley - mile 73.82: MA 133");
-            System.out.println("Newburyport - mile 81.62: MA 1A / MA 113");
-            System.out.println("Salisbury - mile 83.63: MA 110");
-            System.out.println("Salisbury - mile 83.81: MA 1A");
-            System.out.println("Salisbury - mile 85.95: MA 286");
-
-        }
-        else if (id.equals("ma1a")) {
-            System.out.println("Attleboro - mile 0.00: US 1A");
-            System.out.println("Attleboro - mile 0.41: I-95");
-            System.out.println("Attleboro - mile 1.64: MA 123");
-            System.out.println("Attleboro - mile 1.73: US 1");
-            System.out.println("North Attleboro - mile 3.66: I-295");
-            System.out.println("North Attleboro - mile 4.93: MA 120");
-            System.out.println("North Attleboro - mile 7.01: US 1");
-            System.out.println("Plainville - mile 7.88: MA 106");
-            System.out.println("Wrentham - mile 10.53: I-495");
-            System.out.println("Wrentham - mile 11.28: MA 121");
-            System.out.println("Wrentham - mile 12.74: MA 140");
-            System.out.println("Norfolk - mile 14.99: MA 115");
-            System.out.println("Walpole - mile 19.60: MA 27");
-            System.out.println("Dedham - mile 27.04: I-95 / US 1");
-            System.out.println("Canton - mile 29.41: I-95");
-            System.out.println("Canton - mile 30.77: MA 138");
-            System.out.println("Randolph - mile 32.77: MA 24");
-            System.out.println("Randolph - mile 33.60: MA 28");
-            System.out.println("Braintree - mile 35.81: MA 37");
-            System.out.println("Braintree - mile 36.10: MA 3");
-            System.out.println("Boston - mile 41.09: MA 3A");
-            System.out.println("Boston - mile 45.83: I-90");
-            System.out.println("Boston - mile 47.09: I-93 / US 1 / MA 3");
-            System.out.println("Boston - mile 49.02: I-90");
-            System.out.println("Boston - mile 49.31: MA 145");
-            System.out.println("Revere - mile 51.49: MA 145");
-            System.out.println("Revere - mile 51.85: MA 16 / MA 60");
-            System.out.println("Lynn - mile 57.02: MA 129");
-            System.out.println("Lynn - mile 58.17: MA 129");
-            System.out.println("Salem - mile 61.55: MA 114");
-            System.out.println("Salem - mile 62.33: MA 114");
-            System.out.println("Salem - mile 63.25: MA 107");
-            System.out.println("Beverly - mile 64.45: MA 22 / MA 127");
-            System.out.println("Beverly - mile 65.24: MA 62");
-            System.out.println("Beverly - mile 66.70: MA 97");
-            System.out.println("Beverly - mile 66.90: MA 128");
-            System.out.println("Ipswich - mile 74.60: MA 133");
-            System.out.println("Rowley - mile 78.75: MA 133");
-            System.out.println("Newburyport - mile 87.40: MA 113");
-            System.out.println("Newburyport - mile 87.59: US 1");
-            System.out.println("Salisbury - mile 89.88: US 1 / MA 110");
-            System.out.println("Salisbury - mile 94.12: NH 1A");
-        }
-        else if (id.equals("ma2")) {
-            System.out.println("Williamstown - mile 0.00: NY 2");
-            System.out.println("Williamstown - mile 3.82: US 7");
-            System.out.println("Williamstown - mile 6.22: US 7");
-            System.out.println("Williamstown - mile 6.75: MA 43");
-            System.out.println("North Adams - mile 11.57: MA 8");
-            System.out.println("North Adams - mile 11.74: MA 8A");
-            System.out.println("North Adams - mile 12.41: MA 8");
-            System.out.println("Charlemont - mile 29.81: MA 8A");
-            System.out.println("Charlemont - mile 30.40: MA 8A");
-            System.out.println("Buckland - mile 37.39: MA 2A");
-            System.out.println("Buckland - mile 37.81: MA 112");
-            System.out.println("Shelburne - mile 38.06: MA 2");
-            System.out.println("Shelburne - mile 38.94: MA 2A");
-            System.out.println("Greenfield - mile 47.40: I-91 / MA 2A");
-            System.out.println("Greenfield - mile 50.14: I-91");
-            System.out.println("Greenfield - mile 50.79: US 5 / MA 10");
-            System.out.println("Greenfield - mile 52.24: MA 2A");
-            System.out.println("Erving - mile 57.24: MA 63");
-            System.out.println("Erving - mile 64.87: MA 2A");
-            System.out.println("Orange - mile 69.79: MA 122");
-            System.out.println("Orange - mile 70.68: US 202");
-            System.out.println("Athol - mile 75.16: MA 32");
-            System.out.println("Phillipston - mile 76.47: MA 2A");
-            System.out.println("Phillipston - mile 79.01: US 202 / MA 2A");
-            System.out.println("Templeton - mile 83.46: MA 2A / MA 101");
-            System.out.println("Gardner - mile 86.50: MA 68");
-            System.out.println("Westminster - mile 89.74: MA 140");
-            System.out.println("Westminster - mile 91.76: MA 2A / MA 140");
-            System.out.println("Fitchburg - mile 94.50: MA 31");
-            System.out.println("Leominster - mile 99.28: MA 12");
-            System.out.println("Leominster - mile 100.36: MA 13");
-            System.out.println("Leominster - mile 101.13: I-190");
-            System.out.println("Lancaster - mile 103.50: MA 70");
-            System.out.println("Harvard - mile 109.35: MA 110 / MA 111");
-            System.out.println("Littleton - mile 113.30: I-495");
-            System.out.println("Acton - mile 117.61: MA 27");
-            System.out.println("Acton - mile 118.01: MA 111");
-            System.out.println("Concord - mile 120.47: MA 2A / MA 111 / MA 119");
-            System.out.println("Concord - mile 121.69: MA 62");
-            System.out.println("Concord - mile 123.90: MA 126");
-            System.out.println("Concord - mile 124.82: MA 2A");
-            System.out.println("Lexington - mile 128.53: I-95 / MA 128");
-            System.out.println("Lexington - mile 131.46: MA 4 / MA 225");
-            System.out.println("Arlington - mile 133.69: MA 60");
-            System.out.println("Cambridge - mile 135.01: US 3 / MA 16");
-            System.out.println("Cambridge - mile 136.35: MA 16");
-            System.out.println("Cambridge - mile 139.28: US 3");
-            System.out.println("Boston - mile 139.53: US 20");
-            System.out.println("Boston - mile 140.45: US 20");
-            System.out.println("Boston - mile 140.88: MA 2A");
-            System.out.println("Boston - mile 141.56: MA 28");
-        }
-        else if (id.equals("ma2a")) {
-            System.out.println("Buckland - mile 0.00: MA 2 / MA 112");
-            System.out.println("Shelburne - mile 1.50: MA 2");
-            System.out.println("Greenfield - mile 9.96: I-91 / MA 2");
-            System.out.println("Greenfield - mile 11.06: US 5 / MA 10");
-            System.out.println("Greenfield - mile 14.06: MA 2");
-            System.out.println("Erving - mile 19.06: MA 63");
-            System.out.println("Erving - mile 26.66: MA 2");
-            System.out.println("Orange - mile 28.86: MA 78");
-            System.out.println("Orange - mile 30.16: MA 122");
-            System.out.println("Athol - mile 35.16: MA 32");
-            System.out.println("Athol - mile 36.56: MA 32");
-            System.out.println("Athol - mile 37.66: US 202 / MA 2");
-            System.out.println("Phillipston - mile 38.36: US 202 / MA 2");
-            System.out.println("Phillipston - mile 40.66: US 202 / MA 2");
-            System.out.println("Templeton - mile 41.46: US 202");
-            System.out.println("Templeton - mile 44.46: MA 101");
-            System.out.println("Templeton - mile 45.46: MA 2");
-            System.out.println("Templeton - mile 46.16: MA 101");
-            System.out.println("Gardner - mile 48.56: MA 68");
-            System.out.println("Westminster - mile 53.76: MA 2 / MA 140");
-            System.out.println("Westminster - mile 53.96: MA 2 / MA 140");
-            System.out.println("Fitchburg - mile 57.66: MA 31");
-            System.out.println("Fitchburg - mile 58.76: MA 12");
-            System.out.println("Fitchburg - mile 59.56: MA 12");
-            System.out.println("Fitchburg - mile 60.56: MA 31");
-            System.out.println("Lunenburg - mile 63.36: MA 13");
-            System.out.println("Lunenburg - mile 63.66: MA 13");
-            System.out.println("Lunenburg - mile 67.96: MA 225");
-            System.out.println("Ayer - mile 72.96: MA 111");
-            System.out.println("Ayer - mile 74.66: MA 110 / MA 111");
-            System.out.println("Littleton - mile 79.16: I-495");
-            System.out.println("Littleton - mile 79.76: MA 110 / MA 119"); 
-            System.out.println("Acton - mile 84.76: MA 27");
-            System.out.println("Concord - mile 87.56: MA 2 / MA 111 / MA 119");
-            System.out.println("Concord - mile 88.86: MA 62");
-            System.out.println("Concord - mile 91.06: MA 126");
-            System.out.println("Concord - mile 92.16: MA 2");
-            System.out.println("Lexington - mile 95.56: I-95");
-            System.out.println("Lexington - mile 98.26: MA 4 / MA 225");
-            System.out.println("Lexington - mile 98.36: MA 4 / MA 225"); 
-            System.out.println("Arlington - mile 101.96: US 3");
-            System.out.println("Arlington - mile 102.16: MA 60");
-            System.out.println("Arlington - mile 102.26: MA 60");
-            System.out.println("Cambridge - mile 103.66: US 3 / MA 16");
-            System.out.println("Cambridge - mile 107.76: US 3 / MA 3");
-            System.out.println("Boston - mile 108.46: MA 2");
-        }
-        else if (id.equals("us3")) {
-            System.out.println("Cambridge - mile 0.00: MA 2A / MA 3");
-            System.out.println("Cambridge - mile 1.05: MA 2");
-            System.out.println("Cambridge - mile 3.98: MA 16");
-            System.out.println("Cambridge - mile 5.44: MA 2");
-            System.out.println("Cambridge - mile 5.82: MA 2A / MA 16");
-            System.out.println("Arlington - mile 7.20: MA 60");
-            System.out.println("Arlington - mile 7.28: MA 60");
-            System.out.println("Arlington - mile 7.46: MA 2A");
-            System.out.println("Burlington - mile 13.44: I-95 / MA 3A");
-            System.out.println("Burlington - mile 14.87: I-95");
-            System.out.println("Bedford - mile 17.65: MA 62");
-            System.out.println("Chelmsford - mile 24.69: MA 129");
-            System.out.println("Chelmsford - mile 25.83: I-495");
-            System.out.println("Chelmsford - mile 26.57: MA 110");
-            System.out.println("Chelmsford - mile 28.76: MA 4");
-            System.out.println("Chelmsford - mile 30.82: MA 40");
-            System.out.println("Tyngsboro - mile 36.64: MA 113");                 
-        }
-        else if (id.equals("ma3")) {
-            System.out.println("Bourne - mile 0.00: US 6 / MA 6A");
-            System.out.println("Bourne - mile 0.30: US 6"); 
-            System.out.println("Plymouth - mile 2.50: MA 3A");
-            System.out.println("Plymouth - mile 14.50: US 44");
-            System.out.println("Plymouth - mile 15.60: US 44");
-            System.out.println("Kingston - mile 17.80: MA 3A");
-            System.out.println("Duxbury - mile 19.40: MA 3A");
-            System.out.println("Duxbury - mile 22.30: MA 14");
-            System.out.println("Pembroke - mile 26.90: MA 139");
-            System.out.println("Hanover - mile 31.70: MA 53");
-            System.out.println("Rockland - mile 34.30: MA 228");
-            System.out.println("Weymouth - mile 38.10: MA 18");
-            System.out.println("Braintree - mile 42.60: I-93 / US 1");
-            System.out.println("Boston - mile 47.59: MA 3A");
-            System.out.println("Boston - mile 52.33: I-90");
-            System.out.println("Boston - mile 53.59: MA 1A");
-            System.out.println("Boston - mile 54.07: I-93 / US 1");  
-            System.out.println("Boston - mile 54.67: MA 28");
-            System.out.println("Boston - mile 54.97: MA 28");
-            System.out.println("Cambridge - mile 56.17: MA 2A");
-            System.out.println("Cambridge - mile 56.27: US 3");
-        }
-        else if (id.equals("ma3a")) {
-            System.out.println("Plymouth - mile 0.00: MA 3");
-            System.out.println("Plymouth - mile 15.00: US 44");
-            System.out.println("Kingston - mile 18.30: MA 3");
-            System.out.println("Kingston - mile 18.70: MA 80");
-            System.out.println("Kingston - mile 18.90: MA 106");
-            System.out.println("Kingston - mile 20.30: MA 53");
-            System.out.println("Duxbury - mile 20.60: MA 3");
-            System.out.println("Dubxury - mile 24.20: MA 14");
-            System.out.println("Duxbury - mile 25.00: MA 139");
-            System.out.println("Marshfield - mile 27.70: MA 139");
-            System.out.println("Marshfield - mile 28.10: MA 139");
-            System.out.println("Scituate - mile 34.50: MA 123");
-            System.out.println("Hingham - mile 42.20: MA 228");
-            System.out.println("Quincy - mile 49.00: MA 53");
-            System.out.println("Boston - mile 53.60: MA 203");
-            System.out.println("Boston - mile 53.61: I-93 / US 1 / MA 3");
-            System.out.println("Boston - mile 58.35: I-90");
-            System.out.println("Boston - mile 59.61: MA 1A");
-            System.out.println("Boston - mile 60.09: I-93 / US 1"); 
-            System.out.println("Boston - mile 60.69: MA 28");
-            System.out.println("Boston - mile 60.99: MA 28");
-            System.out.println("Cambridge - mile 62.19: MA 2A");
-            System.out.println("Cambridge - mile 62.29: US 3");
-            System.out.println("Cambridge - mile 63.34: MA 2");
-            System.out.println("Cambridge - mile 66.27: MA 16");
-            System.out.println("Cambridge - mile 67.73: MA 2");
-            System.out.println("Cambridge - mile 68.11: MA 2A / MA 16");
-            System.out.println("Arlington - mile 69.49: MA 60");
-            System.out.println("Arlington - mile 69.57: MA 60");
-            System.out.println("Arlington - mile 69.75: MA 2A");
-            System.out.println("Burlington - mile 75.73: I-95 / MA 3A");
-            System.out.println("Burlington - mile 78.13: MA 62");
-            System.out.println("Burlington - mile 78.73: MA 62");
-            System.out.println("Billerica - mile 83.33: MA 129");
-            System.out.println("Billerica - mile 84.53: MA 129");
-            System.out.println("Lowell - mile 88.63: MA 110");
-            System.out.println("Lowell - mile 88.83: MA 110");
-            System.out.println("Chelmsford - mile 92.03: MA 4");
-            System.out.println("Chelmsford - mile 92.73: MA 40");
-            System.out.println("Tyngsboro - mile 96.03: MA 113");
-            System.out.println("Tyngsboro - mile 96.23: MA 113");
-            System.out.println("Tyngsboro - mile 97.93: NH 3A");
-        }
-        else if (id.equals("ma4")) {
-            System.out.println("Lexington - mile 0.00: MA 2 / MA 225");
-            System.out.println("Lexington - mile 1.40: MA 2A");
-            System.out.println("Lexington - mile 1.50: MA 2A");
-            System.out.println("Lexington - mile 4.40: I-95");
-            System.out.println("Bedford - mile 6.20: MA 62");
-            System.out.println("Bedford - mile 7.20: MA 62");
-            System.out.println("Bedford - mile 7.40: MA 225");
-            System.out.println("Chelmsford - mile 15.50: MA 27");
-            System.out.println("Chelmsford - mile 15.60: MA 110 / MA 129");
-            System.out.println("Chelmsford - mile 16.00: I-495");
-            System.out.println("Chelmsford - mile 18.50: US 3");
-            System.out.println("Chelmsford - mile 18.26: MA 3A");
-        }
-        else if (id.equals("us5")) {
-            System.out.println("Longmeadow - mile 1.80: MA 192");
-            System.out.println("Springfield - mile 3.50: I-91");
-            System.out.println("Springfield - mile 3.70: MA 83");
-            System.out.println("Springfield - mile 3.90: I-91");
-            System.out.println("Agawam - mile 4.60: MA 57");
-            System.out.println("West Springfield - mile 5.80: MA 147");
-            System.out.println("West Springfield - mile 7.00: US 20");
-            System.out.println("West Springfield - mile 9.30: I-91");
-            System.out.println("West Springfield - mile 10.80: I-90 / I-91");
-            System.out.println("Holyoke - mile 13.80: US 202");
-            System.out.println("Holyoke - mile 14.60: MA 141");
-            System.out.println("Holyoke - mile 14.80: MA 141");
-            System.out.println("Holyoke - mile 15.00: US 202");
-            System.out.println("Northampton - mile 21.90: I-91");
-            System.out.println("Northampton - mile 22.90: MA 9 / MA 10");
-            System.out.println("Northampton - mile 24.30: I-91");
-            System.out.println("Northampton - mile 26.10: I-91");
-            System.out.println("Hatfield - mile 28.65: I-91");
-            System.out.println("Whately - mile 30.85: I-91");
-            System.out.println("Whately - mile 33.70: I-91");
-            System.out.println("Whately - mile 33.90: MA 116");
-            System.out.println("Deerfield - mile 34.80: MA 116");
-            System.out.println("Greenfield - mile 42.50: MA 2A");
-            System.out.println("Greenfield - mile 44.20: MA 2");
-            System.out.println("Bernardston - mile 49.00: MA 10");
-        }
-        else if (id.equals("us6")) {
-            System.out.println("Seekonk - mile 0.88: MA 114A");
-            System.out.println("Swansea - mile 4.69: MA 136");
-            System.out.println("Swansea - mile 7.49: I-195");
-            System.out.println("Swansea - mile 7.75: MA 118");
-            System.out.println("Somerset - mile 11.38: MA 103 / MA 138");
-            System.out.println("Fall River - mile 11.72: MA 79 / MA 138");
-            System.out.println("Fall River - mile 13.48: MA 24");
-            System.out.println("Westport - mile 17.92: MA 88");
-            System.out.println("Westport - mile 21.12: MA 117");
-            System.out.println("New Bedford - mile 25.74: MA 140");
-            System.out.println("New Bedford - mile 27.56: MA 18");
-            System.out.println("Fairhaven - mile 29.88: MA 240");
-            System.out.println("Marion - mile 39.16: MA 105");
-            System.out.println("Wareham - mile 45.76: MA 28");
-            System.out.println("Bourne - mile 50.34: MA 25 / MA 28");
-            System.out.println("Bourne - mile 53.62: MA 3");
-            System.out.println("Bourne - mile 55.10: MA 6A");
-            System.out.println("Sandwich - mile 58.82: MA 130");
-            System.out.println("Barnstable - mile 65.29: MA 149");
-            System.out.println("Barnstable - mile 68.29: MA 132");
-            System.out.println("Dennis - mile 77.69: MA 134");
-            System.out.println("Harwich - mile 81.79: MA 124");
-            System.out.println("Harwich - mile 84.30: MA 137");
-            System.out.println("Orleans - mile 88.83: MA 6A");
-            System.out.println("Eastham - mile 90.88: MA 6A");
-            System.out.println("Truro - mile 109.45: MA 6A");
-            System.out.println("Provincetown - mile 117.95: MA 6A");
-        }
-        else if (id.equals("ma6a")) {
-            System.out.println("Bourne - mile 0.00: US 6");
-            System.out.println("Sandwich - mile 1.25: MA 130");
-            System.out.println("Barnstable - mile 10.42: MA 149");
-            System.out.println("Barnstable - mile 12.23: MA 132");
-            System.out.println("Dennis - mile 24.12: MA 132");
-            System.out.println("Brewster - mile 28.19: MA 137");
-            System.out.println("Brewster - mile 28.25: MA 124");
-            System.out.println("Orleans - mile 33.08: US 6");
-            System.out.println("Orleans - mile 34.40: MA 28");
-            System.out.println("Eastham - mile 34.97: US 6");
-            System.out.println("Truro - mile 53.61: US 6");
-            System.out.println("Provincetown - mile 62.38: US 6");
-        }
-        else if (id.equals("us7")) {
-            System.out.println("Sheffield - mile 2.96: MA 7A");
-            System.out.println("Great Barrington - mile 10.48: MA 23 / MA 41");
-            System.out.println("Great Barrington - mile 11.45: MA 41");
-            System.out.println("Great Barrington - mile 11.94: MA 23 / MA 183");
-            System.out.println("Great Barrington - mile 13.33: MA 183");
-            System.out.println("Stockbridge - mile 18.05: MA 102");
-            System.out.println("Stockbridge - mile 18.41: MA 102");
-            System.out.println("Lenox - mile 22.55: MA 7A");
-            System.out.println("Lenox - mile 23.42: US 20");
-            System.out.println("Lenox - mile 23.71: MA 183");
-            System.out.println("Lenox - mile 25.57: MA 7A");
-            System.out.println("Pittsfield - mile 30.81: US 20");
-            System.out.println("Pittsfield - mile 31.00: MA 9");
-            System.out.println("Pittsfield - mile 31.16: MA 9");
-            System.out.println("Williamstown - mile 47.21: MA 43");
-            System.out.println("Williamstown - mile 49.08: MA 2");
-            System.out.println("Williamstown - mile 51.41: MA 2");
-        }
-        else if (id.equals("ma7a")) {
-            System.out.println("Sheffield - mile 3.00: US 7");
-            System.out.println("Great Barrington - mile 10.52: MA 23 / MA 41");
-            System.out.println("Great Barrington - mile 11.49: MA 41");
-            System.out.println("Great Barrington - mile 11.98: MA 23 / MA 183");
-            System.out.println("Great Barrington - mile 13.37: MA 183");
-            System.out.println("Stockbridge - mile 18.09: MA 102");
-            System.out.println("Stockbridge - mile 18.45: MA 102");
-            System.out.println("Lenox - mile 22.59: MA 7A");
-            System.out.println("Lenox - mile 23.89: MA 183");
-            System.out.println("Lenox - mile 24.09: MA 183");
-            System.out.println("Lenox - mile 24.89: US 7 / US 20");
-        }
-        else if (id.equals("ma8")) {
-            System.out.println("Sandisfield - mile 0.00: CT 8");
-            System.out.println("Sandisfield - mile 4.17: MA 57");
-            System.out.println("Sandisfield - mile 4.23: MA 57");
-            System.out.println("Otis - mile 12.05: MA 23");
-            System.out.println("Otis - mile 12.19: MA 23");
-            System.out.println("Becket - mile 17.64: US 20");
-            System.out.println("Becket - mile 22.86: US 20");
-            System.out.println("Hinsdale - mile 38.10: MA 143");
-            System.out.println("Dalton - mile 41.72: MA 8A / MA 9");
-            System.out.println("Pittsfield- mile 44.12: MA 9");
-            System.out.println("Adams - mile 56.17: MA 116");
-            System.out.println("North Adams - mile 59.48: MA 8A");
-            System.out.println("North Adams - mile 62.17: MA 2");
-            System.out.println("North Adams - mile 62.37: MA 8A");
-            System.out.println("North Adams - mile 63.15: MA 2");
-            System.out.println("Clarksburg - mile 66.64: VT 8 / VT 100");
-        }
-        else if (id.equals("ma8a")) {
-            System.out.println("Did you mean:");
-            System.out.println("ma8a-l: Dalton - Heath");
-            System.out.println("ma8a-u: North Adams");
-        }
-        else if (id.equals("ma8a-l")) {
-            System.out.println("Dalton - mile 0.00: MA 8 / MA 9");
-            System.out.println("Windsor - mile 6.20: MA 9");
-            System.out.println("Savoy - mile 10.60: MA 116");
-            System.out.println("Pittsfield - mile 16.30: MA 116");
-            System.out.println("Charlemont - mile 25.80: MA 2");
-            System.out.println("Charlemont - mile 26.40: MA 2");
-            System.out.println("Heath - mile 35.84: VT 8A");
-        }
-        else if (id.equals("ma8a-u")) {
-            System.out.println("North Adams - mile 0.00: MA 8");
-            System.out.println("North Adams - mile 3.17: MA 2 / MA 8");
-        }
-        else if (id.equals("ma9")) {
-            System.out.println("Pittsfield - mile 0.00: US 20");
-            System.out.println("Pittsfield - mile 0.34: US 7");
-            System.out.println("Pittsfield - mile 0.56: US 7");
-            System.out.println("Pittsfield - mile 3.59: MA 8");
-            System.out.println("Dalton - mile 5.96: MA 8 / MA 8A");
-            System.out.println("Windsor - mile 12.22: MA 8A");
-            System.out.println("Cummington - mile 21.87: MA 112");
-            System.out.println("Goshen - mile 28.85: MA 112");
-            System.out.println("Williamsburg - mile 34.14: MA 143");
-            System.out.println("Northampton - mile 42.35: MA 66");
-            System.out.println("Northampton - mile 42.38: MA 10");
-            System.out.println("Northampton - mile 42.66: US 5 / MA 10");
-            System.out.println("Northampton - mile 43.73: I-91");
-            System.out.println("Hadley - mile 45.60: MA 47");
-            System.out.println("Hadley - mile 48.36: MA 116");
-            System.out.println("Amherst - mile 49.77: MA 116");
-            System.out.println("Belchertown - mile 58.70: US 202");
-            System.out.println("Belchertown - mile 59.63: MA 21");
-            System.out.println("Ware - mile 68.97: MA 32");
-            System.out.println("Ware - mile 70.57: MA 32");
-            System.out.println("West Brookfield - mile 74.79: MA 19 / MA 67");
-            System.out.println("West Brookfield - mile 75.89: MA 67");
-            System.out.println("Brookfield - mile 78.58: MA 148");
-            System.out.println("Spencer - mile 83.44: MA 49");
-            System.out.println("Spencer - mile 85.00: MA 31");
-            System.out.println("Spencer - mile 85.15: MA 31");
-            System.out.println("Leicester - mile 90.00: MA 56");
-            System.out.println("Worcester - mile 94.29: MA 12");
-            System.out.println("Worcester - mile 95.47: MA 122 / MA 122A");
-            System.out.println("Worcester - mile 96.11: MA 12 / MA 122A");
-            System.out.println("Worcester - mile 96.98: MA 70");
-            System.out.println("Worcester - mile 97.23: I-290");
-            System.out.println("Shrewsbury - mile 101.57: MA 140");
-            System.out.println("Northboro - mile 103.70: US 20");
-            System.out.println("Westboro - mile 105.59: MA 135");
-            System.out.println("Westboro - mile 107.54: MA 30");
-            System.out.println("Westboro - mile 109.07: I-495");
-            System.out.println("Southboro - mile 111.12: MA 85");
-            System.out.println("Framingham - mile 113.76: I-90");
-            System.out.println("Framingham - mile 116.10: MA 30");
-            System.out.println("Framingham - mile 117.12: MA 30");
-            System.out.println("Framingham - mile 117.44: MA 30 / MA 126");
-            System.out.println("Natick - mile 119.96: MA 27");
-            System.out.println("Wellesley - mile 112.55: MA 16");
-            System.out.println("Wellesley - mile 126.55: I-95");
-            System.out.println("Boston - mile 134.60: MA 2A");
-            System.out.println("Boston - mile 135.06: I-90");
-            System.out.println("Boston - mile 135.31: MA 28");
-        }
-        else {
-            System.out.println("Not a valid route.");  
-        }
+public class ma {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    System.out.print("Enter route: ");
+    String id = input.nextLine();
+    
+    if (id.equals("us1")) {
+    try {
+      File obj = new File("ma/us1.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
     }
+    }
+    else if (id.equals("ma1a")) {
+    try {
+      File obj = new File("ma/ma1a.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma2")) {
+    try {
+      File obj = new File("ma/ma2.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma2a")) {
+    try {
+      File obj = new File("ma/ma2a.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("us3")) {
+    try {
+      File obj = new File("ma/us3.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma3")) {
+    try {
+      File obj = new File("ma/ma3.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma3a")) {
+    try {
+      File obj = new File("ma/ma3a.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma4")) {
+    try {
+      File obj = new File("ma/ma4.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("us5")) {
+    try {
+      File obj = new File("ma/us5.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("us6")) {
+    try {
+      File obj = new File("ma/us6.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma6a")) {
+    try {
+      File obj = new File("ma/ma6a.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("us7")) {
+    try {
+      File obj = new File("ma/us7.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma7a")) {
+    try {
+      File obj = new File("ma/ma7a.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma8")) {
+    try {
+      File obj = new File("ma/ma8.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma8a-l")) {
+    try {
+      File obj = new File("ma/ma8a-l.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma8a-u")) {
+    try {
+      File obj = new File("ma/ma8a-u.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma9")) {
+    try {
+      File obj = new File("ma/ma9.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma10")) {
+    try {
+      File obj = new File("ma/ma10.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else {
+        System.out.println("Not a valid route.");
+    }
+  }
 }
