@@ -1,0 +1,5 @@
+Springfield - mile 0.00: US 20
+Springfield - mile 0.05: I-91
+Springfield - mile 0.31: MA 116
+Springfield - mile 4.00: I-291 / US 20
+Springfield - mile 4.15: US 20

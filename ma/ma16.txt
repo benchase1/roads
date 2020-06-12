@@ -1,0 +1,31 @@
+Webster - mile 0.00: MA 12 / MA 193
+Webster - mile 0.20: I-395
+Douglas - mile 6.91: MA 96
+Uxbridge - mile 12.20: MA 146
+Uxbridge - mile 14.38: MA 122
+Uxbridge - mile 14.42: MA 122
+Milford - mile 21.40: MA 140
+Milford - mile 22.90: MA 85
+Milford - mile 23.30: MA 109
+Holliston - mile 27.30: MA 126
+Holliston - mile 29.60: MA 126
+Sherborn - mile 33.00: MA 27
+Sherborn - mile 33.30: MA 27
+Wellesley - mile 39.10: MA 135
+Wellesley - mile 39.30: MA 135
+Wellesley - mile 40.70: MA 9
+Newton - mile 42.20: I-95
+Newton - mile 43.40: MA 30
+Newton - mile 44.40: I-95
+Watertown - mile 46.80: US 20
+Cambridge - mile 49.40: US 3 / MA 2
+Cambridge - mile 50.70: MA 2
+Cambridge - mile 51.10: US 3 / MA 2A
+Medford - mile 53.00: MA 38
+Medford - mile 53.50: I-93
+Medford - mile 55.30: MA 28
+Everett - mile 56.10: MA 99
+Revere - mile 58.50: US 1
+Revere - mile 58.80: MA 107
+Revere - mile 59.60: MA 145
+Revere - mile 59.86: MA 1A / MA 60

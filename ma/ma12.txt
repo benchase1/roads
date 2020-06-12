@@ -1,0 +1,30 @@
+Dudley - mile 0.00: CT 12
+Dudley - mile 1.70: MA 197
+Webster - mile 3.40: MA 16 / MA 193
+Oxford - mile 11.20: MA 56
+Oxford - mile 12.00: US 20
+Auburn - mile 12.60: US 20
+Auburn - mile 13.60: I-90 / I-290 / I-395
+Worcester - mile 17.60: I-290
+Worcester - mile 19.10: MA 9
+Worcester - mile 20.50: MA 122 / MA 122A
+Worcester - mile 21.20: MA 9
+Worcester - mile 22.50: MA 122A
+Worcester - mile 23.10: I-190
+West Boylston - mile 26.10: I-190
+West Boylston - mile 27.90: MA 140
+West Boylston - mile 28.90: MA 140
+West Boylston - mile 29.00: MA 110
+Sterling - mile 33.40: MA 62
+Sterling - mile 33.70: MA 62
+Sterling - mile 35.20: I-190
+Leominster - mile 40.10: MA 117
+Leominster - mile 40.70: MA 13
+Leominster - mile 41.60: MA 2
+Fitchburg - mile 46.10: MA 2A / MA 31
+Fitchburg - mile 47.00: MA 2A / MA 31
+Ashburnham - mile 53.10: MA 101
+Winchendon - mile 59.00: MA 140
+Winchendon - mile 61.30: US 202
+Winchendon - mile 61.50: US 202
+Winchendon - mile 64.41: NH 12

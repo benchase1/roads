@@ -1,0 +1,32 @@
+Kingston - mile 0.00: MA 106
+Pembroke - mile 5.60: MA 36
+Hanson - mile 7.40: MA 58
+East Bridgewater - mile 10.80: MA 14
+Whitman - mile 14.40: MA 18
+Brockton - mile 16.20: MA 14
+Brockton - mile 18.10: MA 28 / MA 123
+Brockton - mile 18.20: MA 123
+Brockton - mile 18.30: MA 28
+Brockton - mile 20.40: MA 24
+Stoughton - mile 23.90: MA 138 / MA 139
+Stoughton - mile 24.00: MA 138
+Walpole - mile 31.80: US 1
+Walpole - mile 33.70: MA 1A
+Medfield - mile 37.90: MA 109
+Sherborn - mile 41.10: MA 115
+Sherborn - mile 43.50: MA 16
+Sherborn - mile 43.80: MA 16
+Natick - mile 46.70: MA 135
+Natick - mile 48.00: MA 9
+Wayland - mile 49.30: MA 30
+Wayland - mile 51.50: MA 126
+Wayland - mile 52.60: US 20
+Wayland - mile 52.90: MA 126
+Maynard - mile 59.30: MA 117
+Maynard - mile 59.95: MA 62
+Maynard - mile 60.05: MA 62
+Acton - mile 63.10: MA 111
+Acton - mile 63.40: MA 2
+Acton - mile 65.70: MA 2A / MA 119
+Westford - mile 68.50: MA 225
+Chelmsford - mile 73.44: MA 4

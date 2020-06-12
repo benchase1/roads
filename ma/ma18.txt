@@ -1,0 +1,18 @@
+New Bedford - mile 0.03: US 6
+New Bedford - mile 1.24: I-195
+New Bedford - mile 4.81: MA 140
+Lakeville - mile 13.51: MA 105
+Lakeville - mile 16.19: MA 105
+Lakeville - mile 18.10: MA 79
+Middleboro - mile 19.83: I-495
+Middleboro - mile 20.16: US 44 / MA 28
+Bridgewater - mile 26.24: MA 28 / MA 104
+East Bridgewater - mile 28.09: MA 106
+East Bridgewater - mile 29.20: MA 106
+Whitman - mile 32.07: MA 14
+Whitman - mile 32.80: MA 27
+Abington - mile 34.54: MA 123
+Abington - mile 36.17: MA 139
+Weymouth - mile 37.09: MA 58
+Weymouth - mile 40.81: MA 3
+Weymouth - mile 41.56: MA 53

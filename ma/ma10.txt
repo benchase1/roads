@@ -5,6 +5,7 @@ Southwick - mile 4.90: MA 57
 Westfield - mile 9.60: US 20
 Westfield - mile 9.90: US 20
 Westfield - mile 11.30: I-90
+Westfield - mile 14.30: US 202
 Easthampton - mile 21.80: MA 141
 Northampton - mile 26.10: MA 9
 Northampton - mile 26.40: US 5 / MA 9

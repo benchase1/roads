@@ -1,0 +1,50 @@
+Pittsfield - mile 3.34: MA 41
+Pittsfield - mile 7.43: MA 9
+Pittsfield - mile 7.60: US 7
+Lenox - mile 12.85: MA 7A
+Lenox - mile 14.69: MA 183
+Lenox - mile 15.00: US 7
+Lee - mile 18.77: I-90
+Lee - mile 18.84: MA 102
+Becket - mile 25.72: MA 8
+Becket - mile 30.90: MA 8
+Huntington - mile 41.83: MA 112
+Russell - mile 48.02: MA 23
+Westfield - mile 53.75: US 202 / MA 10
+Westfield - mile 54.00: US 202 / MA 10
+Westfield - mile 55.77: MA 187
+West Springfield - mile 61.58: US 5
+Springfield - mile 62.74: I-91 / MA 20A
+Springfield - mile 63.14: I-291
+Springfield - mile 66.56: I-291 / MA 20A
+Springfield - mile 70.39: MA 21
+Palmer - mile 78.78: MA 181
+Palmer - mile 79.79: MA 32
+Palmer - mile 80.78: MA 32
+Palmer - mile 82.46: MA 67
+Brimfield - mile 87.87: MA 19
+Sturbridge - mile 92.81: MA 148
+Sturbridge - mile 94.47: MA 131
+Sturbridge - mile 94.83: I-84
+Sturbridge - mile 96.80: MA 49
+Charlton - mile 99.99: MA 169
+Charlton - mile 100.39: MA 31
+Oxford - mile 105.83: MA 56
+Auburn - mile 106.73: MA 12
+Auburn - mile 107.41: MA 12
+Auburn - mile 108.62: I-290 / I-395
+Millbury - mile 112.51: I-90 / MA 146
+Worcester - mile 115.25: MA 122
+Shrewsbury - mile 117.55: MA 140
+Northboro - mile 120.70: MA 9
+Northboro - mile 123.90: MA 135
+Marlboro - mile 127.69: I-495
+Marlboro - mile 129.52: MA 85
+Wayland - mile 139.71: MA 27 / MA 126
+Waltham - mile 144.59: I-95
+Waltham - mile 145.81: MA 117
+Waltham - mile 147.07: MA 60
+Watertown - mile 149.37: MA 16
+Boston - mile 152.65: MA 30
+Boston - mile 153.37: MA 2
+Boston - mile 154.11: MA 2
