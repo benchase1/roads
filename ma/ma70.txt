@@ -1,0 +1,11 @@
+Worcester - mile 0.00: MA 9
+Worcester - mile 0.30: I-290
+Worcester - mile 1.50: I-290
+Boylston - mile 5.60: MA 140
+Clinton - mile 10.80: MA 62
+Clinton - mile 13.00: MA 110
+Clinton - mile 13.30: MA 110
+Clinton - mile 13.40: MA 62
+Lancaster - mile 16.90: MA 117
+Lancaster - mile 17.10: MA 117
+Lancaster - mile 20.74: MA 2

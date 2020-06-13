@@ -1,0 +1,36 @@
+Barre - mile 0.00: MA 32 / MA 122
+Hubbardston - mile 6.60: MA 68
+Princeton - mile 12.90: MA 31
+Princeton - mile 13.20: MA 31
+Sterling - mile 19.80: MA 12
+Sterling - mile 20.14: MA 12
+Clinton - mile 24.70: MA 70
+Clinton - mile 24.80: MA 110
+Clinton - mile 25.10: MA 110
+Clinton - mile 27.20: MA 70
+Berlin - mile 31.90: I-495
+Hudson - mile 33.90: MA 85
+Hudson - mile 34.00: MA 85
+Stow - mile 39.30: MA 117
+Maynard - mile 41.30: MA 117
+Maynard - mile 42.30: MA 27
+Maynard - mile 42.40: MA 27
+Concord - mile 46.60: MA 2 / MA 2A
+Bedford - mile 52.40: MA 4 / MA 225
+Bedford - mile 53.40: MA 4 / MA 225
+Bedford - mile 55.10: US 3
+Burlington - mile 57.90: MA 3A
+Burlington - mile 58.60: MA 3A
+Wilmington - mile 61.80: MA 38 / MA 129
+Wilmington - mile 64.20: I-93
+North Reading - mile 66.60: MA 28
+North Reading - mile 66.80: MA 28
+Middleton - mile 73.20: MA 114
+Middleton - mile 73.30: MA 114
+Danvers - mile 76.10: US 1
+Danvers - mile 76.30: I-95
+Danvers - mile 78.10: MA 35
+Danvers - mile 78.90: MA 128
+Beverly - mile 81.30: MA 1A
+Beverly - mile 81.70: MA 22
+Beverly - mile 82.18: MA 127

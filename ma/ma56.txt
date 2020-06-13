@@ -1,0 +1,9 @@
+Oxford - mile 0.00: MA 12
+Oxford - mile 0.50: US 20
+Leicester - mile 6.30: MA 9
+Paxton - mile 10.20: MA 122
+Paxton - mile 11.50: MA 31 / MA 122
+Paxton - mile 11.60: MA 31
+Rutland - mile 16.40: MA 122A
+Rutland - mile 16.50: MA 122A
+Rutland - mile 20.10: MA 68

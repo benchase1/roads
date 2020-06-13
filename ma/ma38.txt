@@ -1,0 +1,15 @@
+Somerville - mile 0.00: I-93 / MA 28
+Somerville - mile 0.80: I-93
+Medford - mile 1.20: MA 16
+Medford - mile 2.20: MA 16
+Medford - mile 2.50: MA 16
+Medford - mile 2.70: MA 60
+Woburn - mile 8.80: I-95
+Wilmington - mile 12.20: MA 129
+Wilmington - mile 12.60: MA 62
+Wilmington - mile 13.50: MA 129
+Tewksbury - mile 20.40: I-495
+Lowell - mile 22.30: MA 110 / MA 133
+Lowell - mile 22.70: MA 110
+Dracut - mile 24.00: MA 113
+Dracut - mile 26.50: NH 38

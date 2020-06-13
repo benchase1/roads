@@ -1,0 +1,53 @@
+Eastham - mile 0.00: US 6 / MA 6A
+Orleans - mile 0.54: MA 6A
+Orleans - mile 3.44: MA 39
+Chatham - mile 12.99: MA 137
+Harwich - mile 17.15: MA 39 / MA 124
+Dennis - mile 20.23: MA 134
+Barnstable - mile 28.33: MA 132
+Barnstable - mile 34.90: MA 149
+Barnstable - mile 37.19: MA 130
+Mashpee - mile 39.50: MA 151
+Falmouth - mile 51.32: MA 28A
+Falmouth - mile 55.71: MA 151
+Bourne - mile 58.59: MA 28A
+Bourne - mile 63.81: MA 25
+Bourne - mile 64.59: US 6
+Wareham - mile 69.05: US 6
+Wareham - mile 72.68: I-195
+Rochester - mile 75.33: MA 58
+Middleboro - mile 80.77: I-495
+Middleboro - mile 85.28: MA 105
+Middleboro - mile 87.74: US 44 / MA 18
+Bridgewater - mile 93.82: MA 104
+Bridgewater - mile 93.88: MA 18 / MA 104
+West Bridgewater - mile 96.55: MA 106
+Brockton - mile 99.83: MA 27 / MA 123
+Brockton - mile 100.02: MA 123
+Brockton - mile 101.33: MA 27
+Brockton - mile 102.93: MA 37
+Randolph - mile 107.11: MA 139
+Randolph - mile 110.20: I-93 / US 1
+Milton - mile 115.10: MA 138
+Boston - mile 116.42: MA 203
+Boston - mile 121.94: MA 9
+Boston - mile 122.24: MA 2
+Boston - mile 123.00: MA 3
+Boston - mile 123.38: I-93 / US 1
+Boston - mile 123.48: MA 3
+Somerville - mile 126.03: MA 38
+Medford - mile 126.84: MA 16
+Medford - mile 128.35: MA 60
+Medford - mile 129.21: I-95
+Stoneham - mile 130.81: I-93
+Reading - mile 134.47: I-95
+Reading - mile 136.02: MA 129
+North Reading - mile 139.77: MA 62
+Andover - mile 141.67: MA 125
+Andover - mile 146.54: MA 133
+Andover - mile 147.05: I-495
+Lawrence - mile 148.43: MA 114
+Lawrence - mile 149.31: MA 110
+Methuen - mile 150.90: MA 113
+Methuen - mile 151.27: MA 213
+Methuen - mile 151.93: NH 28

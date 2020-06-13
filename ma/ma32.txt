@@ -1,0 +1,17 @@
+Monson - mile 0.00: CT 32
+Palmer - mile 8.79: US 20
+Palmer - mile 9.85: US 20
+Palmer - mile 10.44: I-90
+Ware - mile 18.85: MA 9
+Ware - mile 20.44: MA 9
+Hardwick - mile 23.84: MA 32A
+Barre - mile 31.39: MA 67
+Barre - mile 33.92: MA 122
+Barre - mile 35.06: MA 62
+Petersham - mile 42.42: MA 32A / MA 122
+Petersham - mile 43.88: MA 101
+Athol - mile 48.83: US 202 / MA 2
+Athol - mile 49.72: MA 2A
+Athol - mile 51.08: MA 2A
+Royalston - mile 58.58: MA 68
+Royalston - mile 60.69: NH 32
