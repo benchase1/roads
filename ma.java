@@ -1002,6 +1002,192 @@ public class ma {
       e.printStackTrace();
     }
     }
+    else if (id.equals("i90")) {
+    try {
+      File obj = new File("ma/i90.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("i91")) {
+    try {
+      File obj = new File("ma/i91.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("i93")) {
+    try {
+      File obj = new File("ma/i93.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("i95")) {
+    try {
+      File obj = new File("ma/i95.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma96")) {
+    try {
+      File obj = new File("ma/ma96.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma97")) {
+    try {
+      File obj = new File("ma/ma97.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma98")) {
+    try {
+      File obj = new File("ma/ma98.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma99")) {
+    try {
+      File obj = new File("ma/ma98.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma101")) {
+    try {
+      File obj = new File("ma/ma101.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma102")) {
+    try {
+      File obj = new File("ma/ma102.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma103")) {
+    try {
+      File obj = new File("ma/ma103.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma104")) {
+    try {
+      File obj = new File("ma/ma104.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma105")) {
+    try {
+      File obj = new File("ma/ma105.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ma106")) {
+    try {
+      File obj = new File("ma/ma106.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
     else {
         System.out.println("Not a valid route.");
     }
