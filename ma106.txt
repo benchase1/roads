@@ -1,0 +1,17 @@
+Plainville - mile 0.00: MA 1A
+Plainville - mile 0.70: US 1
+Plainville - mile 1.60: MA 152
+Mansfield - mile 5.80: MA 140
+Easton - mile 10.70: MA 123
+Easton - mile 11.80: MA 123
+Easton - mile 14.80: MA 138
+West Bridgewater - mile 16.00: MA 24
+West Bridgewater - mile 17.90: MA 28
+East Bridgewater - mile 20.40: MA 18
+East Bridgewater - mile 20.60: MA 18
+East Bridgewater - mile 24.00: MA 104
+Halifax - mile 26.00: MA 105
+Halifax - mile 27.60: MA 58
+Halifax - mile 28.30: MA 36
+Kingston - mile 33.50: MA 27
+Kingston - mile 34.31: MA 3A

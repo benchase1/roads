@@ -1,0 +1,24 @@
+Canton - mile 0.13: I-95 / US 1
+Canton - mile 1.42: MA 138
+Randolph - mile 3.40: MA 24
+Randolph - mile 4.23: MA 28
+Braintree - mile 6.45: MA 37
+Braintree - mile 6.80: MA 3
+Boston - mile 11.58: MA 3A
+Boston - mile 16.30: I-90
+Boston - mile 17.87: MA 1A
+Boston - mile 18.60: US 1
+Boston - mile 18.74: MA 3 / MA 28
+Somerville - mile 20.26: MA 28 / MA 38
+Medford - mile 21.80: MA 16
+Medford - mile 22.55: MA 60
+Medford - mile 23.23: MA 28
+Stoneham - mile 25.28: MA 28
+Reading - mile 28.48: I-95
+Wilmington - mile 31.14: MA 129
+Wilmington - mile 34.06: MA 62
+Wilmington - mile 34.63: MA 125
+Andover - mile 39.20: MA 133
+Andover - mile 40.52: I-495
+Methuen - mile 43.47: MA 110 / MA 113
+Methuen - mile 45.48: MA 213
