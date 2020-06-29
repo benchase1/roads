@@ -1,0 +1,33 @@
+West Boylston - mile 0.00: MA 12
+Clinton - mile 5.50: MA 62 / MA 70
+Clinton - mile 5.80: MA 62 / MA 70
+Bolton - mile 9.40: MA 117
+Harvard - mile 14.40: MA 111
+Harvard - mile 16.00: MA 2
+Ayer - mile 18.10: MA 2A / MA 111
+Littleton - mile 22.60: I-495
+Littleton - mile 23.90: MA 2A / MA 119
+Westford - mile 25.30: MA 225
+Westford - mile 25.60: MA 225
+Chelmsford - mile 31.20: MA 4 / MA 129
+Chelmsford - mile 31.80: I-495
+Chelmsford - mile 32.80: US 3
+Lowell - mile 34.70: MA 3A
+Lowell - mile 35.70: MA 38 / MA 133
+Lowell - mile 36.10: MA 38
+Methuen - mile 43.00: I-93 / MA 113
+Methuen - mile 43.30: MA 113
+Lawrence - mile 45.30: MA 28
+Methuen - mile 47.90: I-495
+Methuen - mile 49.30: MA 113
+Haverhill - mile 52.00: I-495
+Haverhill - mile 54.30: MA 113
+Haverhill - mile 54.60: MA 97
+Haverhill - mile 55.00: MA 125
+Haverhill - mile 55.10: MA 125
+Haverhill - mile 56.00: MA 108
+Haverhill - mile 57.00: I-495
+Amesbury - mile 64.10: MA 150
+Amesbury - mile 65.00: I-495
+Amesbury - mile 65.90: I-495
+Salisbury - mile 69.24: US 1 / MA 1A
