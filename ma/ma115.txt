@@ -1,0 +1,4 @@
+Foxboro - mile 0.00: MA 140
+Norfolk - mile 1.10: MA 1A
+Millis - mile 7.50: MA 109
+Sherborn - mile 10.87: MA 27

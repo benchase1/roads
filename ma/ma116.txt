@@ -1,0 +1,22 @@
+Springfield - mile 0.00: MA 20A
+Springfield - mile 0.90: I-91
+Chicopee - mile 2.20: I-391
+Chicopee - mile 3.30: I-391
+Chicopee - mile 5.80: MA 141
+Chicopee - mile 7.60: MA 141
+Holyoke - mile 7.60: MA 141
+South Hadley - mile 9.40: US 202
+South Hadley - mile 10.40: MA 33
+South Hadley - mile 12.20: MA 47
+Amherst - mile 21.50: MA 9
+Hadley - mile 22.80: MA 9
+Amherst - mile 26.10: MA 63
+Sunderland - mile 30.90: MA 47
+Whately - mile 32.70: US 5 / MA 10
+Deerfield - mile 33.60: US 5 / MA 10
+Deerfield - mile 33.80: I-91
+Ashfield - mile 47.20: MA 112
+Ashfield - mile 48.60: MA 112
+Plainfield - mile 57.80: MA 8A
+Savoy - mile 63.50: MA 8A
+Adams - mile 68.26: MA 8

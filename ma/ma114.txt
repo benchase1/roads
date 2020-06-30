@@ -1,0 +1,15 @@
+Lawrence - mile 0.00: MA 28
+Lawrence - mile 1.70: I-495
+North Andover - mile 2.80: MA 133
+North Andover - mile 2.90: MA 125
+North Andover - mile 3.50: MA 125
+Middleton - mile 10.70: MA 62
+Middleton - mile 10.90: MA 62
+Danvers - mile 13.80: US 1
+Danvers - mile 13.90: I-95
+Peabody - mile 16.30: MA 128
+Peabody - mile 17.50: MA 35
+Salem - mile 18.90: MA 107
+Salem - mile 19.40: MA 1A
+Salem - mile 20.40: MA 1A
+Marblehead - mile 22.42: MA 129
