@@ -9,8 +9,5 @@ Additional names such as business or bypass are not hyphenated. For example, I-9
 
 Exception to the above: Texas Spur and Loop Routes are added, and will be in the Texas file with names like "spur1" or "loop1". Other Texas routes added would be Farm / Ranch to Market ("farm1", ranch not used), Park ("park"), Recreation ("rec"), and Ranch Road 1 ("ranch1").
 
-UPDATES:
-Starting 7 June 2020, the database will be updated daily with new routes added.
-
 CONTACT:
 With any questions or comments, please email me at hello@roads.benchase.tk
