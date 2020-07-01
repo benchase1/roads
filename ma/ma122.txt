@@ -1,0 +1,24 @@
+Blackstone - mile 0.00: RI 122
+Uxbridge - mile 6.70: MA 146A
+Uxbridge - mile 7.50: MA 16
+Uxbridge - mile 7.90: MA 16
+Grafton - mile 15.97: MA 122A
+Grafton - mile 18.70: MA 140
+Grafton - mile 20.10: MA 30 / MA 140
+Millbury - mile 21.80: I-90
+Worcester - mile 22.43: US 20
+Worcester - mile 25.60: I-290
+Worcester - mile 26.20: MA 122A
+Worcester - mile 27.37: MA 9 / MA 12 / MA 122A
+Paxton - mile 33.00: MA 56
+Paxton - mile 34.30: MA 31 / MA 56
+Rutland - mile 39.10: MA 122A
+Oakham - mile 41.10: MA 148
+Barre - mile 47.00: MA 32
+Barre - mile 48.10: MA 62
+Petersham - mile 55.40: MA 32
+Petersham - mile 55.90: MA 32A
+New Salem - mile 63.40: US 202
+Orange - mile 64.30: US 202
+Orange - mile 64.90: MA 2
+Orange - mile 67.15: MA 2A

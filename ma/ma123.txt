@@ -1,0 +1,23 @@
+Attleboro - mile 0.00: RI 123
+Attleboro - mile 1.20: US 1
+Attleboro - mile 1.30: MA 1A
+Attleboro - mile 3.50: I-95
+Attleboro - mile 5.60: MA 152
+Attleboro - mile 5.80: MA 118
+Norton - mile 11.29: MA 140
+Norton - mile 11.31: MA 140
+Norton - mile 13.10: I-495
+Easton - mile 16.2: MA 106
+Easton - mile 17.40: MA 106
+Easton - mile 20.10: MA 138
+Easton - mile 20.30: MA 138
+Brockton - mile 21.70: MA 24
+Brockton - mile 24.50: MA 28
+Brockton - mile 24.55: MA 27
+Brockton - mile 24.80: MA 27
+Abington - mile 28.70: MA 18
+Abington - mile 29.70: MA 58
+Rockland - mile 31.00: MA 139
+Rockland - mile 31.60: MA 139
+Hanover - mile 35.70: MA 53
+Scituate - mile 41.91: MA 3A

@@ -1,0 +1,15 @@
+Blackstone - mile 0.00: RI 126
+Bellingham - mile 5.40: MA 140
+Bellingham - mile 5.48: MA 140
+Bellingham - mile 7.66: I-495
+Medway - mile 10.30: MA 109
+Holliston - mile 12.90: MA 16
+Holliston - mile 15.20: MA 16
+Framingham - mile 20.00: MA 135
+Framingham - mile 21.60: MA 9
+Framingham - mile 21.80: MA 30
+Wayland - mile 26.30: MA 27
+Wayland - mile 27.30: US 20
+Wayland - mile 27.40: MA 27
+Lincoln - mile 31.30: MA 117
+Concord - mile 33.57: MA 2 / MA 2A

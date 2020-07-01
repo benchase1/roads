@@ -1,0 +1,8 @@
+Beverly - mile 0.00: MA 1A / MA 22
+Beverly - mile 0.10: MA 22
+Beverly - mile 1.10: MA 62
+Gloucester - mile 13.60: MA 133
+Gloucester - mile 15.10: MA 127A
+Gloucester - mile 15.30: MA 128
+Rockport - mile 19.10: MA 127A
+Gloucester - mile 26.70: MA 128
