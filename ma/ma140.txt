@@ -1,0 +1,37 @@
+New Bedford - mile 0.00: US 6
+New Bedford - mile 1.20: I-195
+New Bedford - mile 5.70: MA 18
+Taunton - mile 16.00: MA 79
+Taunton - mile 19.20: MA 24
+Taunton - mile 22.00: US 44
+Taunton - mile 22.40: US 44 / MA 138
+Norton - mile 29.98: MA 123
+Norton - mile 30.00: MA 123
+Mansfield - mile 33.40: I-495
+Mansfield - mile 34.06: I-495
+Mansfield - mile 35.40: MA 106
+Foxboro - mile 36.50: I-95
+Foxboro - mile 40.00: US 1
+Foxboro - mile 40.30: MA 115
+Wrentham - mile 43.00: MA 1A
+Franklin - mile 49.00: I-495
+Bellingham - mile 51.60: MA 126
+Bellingham - mile 51.67: MA 126
+Milford - mile 56.40: MA 16
+Grafton - mile 67.80: MA 122
+Grafton - mile 69.20: MA 30 / MA 122
+Grafton - mile 69.50: MA 30
+Shrewsbury - mile 70.89: US 20
+Shrewsbury - mile 72.70: MA 9
+Shrewsbury - mile 75.90: I-290
+Boylston - mile 77.80: MA 70
+West Boylston - mile 80.70: MA 12
+West Boylston - mile 81.50: MA 12 / MA 110
+Sterling - mile 83.90: I-190
+Sterling - mile 86.20: MA 62
+Princeton - mile 89.70: MA 31
+Princeton - mile 91.40: MA 31
+Westminster - mile 95.50: MA 2 / MA 2A
+Westminster - mile 97.50: MA 2
+Gardner - mile 100.30: MA 101
+Winchendon - mile 107.76: MA 12

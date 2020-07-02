@@ -1,0 +1,16 @@
+Stoughton - mile 0.00: MA 27 / MA 138
+Stoughton - mile 3.00: MA 24
+Randolph - mile 4.50: MA 28
+Randolph - mile 4.70: MA 28
+Holbrook - mile 6.60: MA 37
+Abington - mile 10.30: MA 18
+Abington - mile 10.60: MA 58
+Rockland - mile 12.20: MA 123
+Rockland - mile 12.80: MA 123
+Hanover - mile 17.90: MA 53
+Pembroke - mile 19.00: MA 53
+Pembroke - mile 21.00: MA 3
+Marshfield - mile 23.70: MA 3A
+Marshfield - mile 24.20: MA 3A
+Duxbury - mile 31.70: MA 3A
+Duxbury - mile 32.24: MA 14
