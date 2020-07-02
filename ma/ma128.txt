@@ -1,0 +1,31 @@
+Canton - mile 0.00: I-93 / US 1
+Dedham - mile 2.90: MA 1A
+Dedham - mile 2.92: US 1
+Dedham - mile 4.42: MA 109
+Dedham - mile 5.89: MA 135
+Wellesley - mile 10.40: MA 9
+Newton - mile 11.78: MA 16
+Weston - mile 12.84: MA 30
+Weston - mile 13.01: I-90
+Waltham - mile 15.01: US 20
+Lexington - mile 19.03: MA 2
+Lexington - mile 20.09: MA 2A
+Lexington - mile 22.32: MA 4 / MA 225
+Burlington - mile 24.68: US 3
+Burlington - mile 25.37: US 3
+Burlington - mile 25.38: MA 3A
+Woburn - mile 27.34: MA 38
+Reading - mile 29.32: I-93
+Reading - mile 30.16: MA 28
+Wakefield - mile 32.13: MA 129
+Lynnfield - mile 36.50: US 1 / MA 129
+Peabody - mile 38.23: I-95
+Peabody - mile 40.43: MA 114
+Danvers - mile 41.93: MA 35
+Danvers - mile 42.53: MA 62
+Beverly - mile 44.23: MA 1A
+Beverly - mile 46.03: MA 22
+Gloucester - mile 54.23: MA 133
+Gloucester - mile 56.73: MA 127
+Gloucester - mile 58.33: MA 127
+Gloucester - mile 58.53: MA 127A

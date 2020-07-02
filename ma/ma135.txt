@@ -1,0 +1,9 @@
+Northboro - mile 0.00: US 20
+Westboro - mile 2.60: MA 9
+Westboro - mile 4.20: MA 30
+Hopkinton - mile 10.50: MA 85
+Framingham - mile 17.30: MA 126
+Natick - mile 21.00: MA 27
+Wellesley - mile 24.00: MA 16
+Wellesley - mile 24.20: MA 16
+Dedham - mile 29.53: I-95
