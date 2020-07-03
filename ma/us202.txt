@@ -1,0 +1,28 @@
+Southwick - mile 0.00: CT 10
+Southwick - mile 1.90: MA 168
+Southwick - mile 4.30: MA 57
+Southwick - mile 4.90: MA 57
+Westfield - mile 9.80: US 20
+Westfield - mile 10.00: US 20
+Westfield - mile 11.50: I-90
+Westfield - mile 14.50: MA 10
+Holyoke - mile 20.00: I-91
+Holyoke - mile 20.40: US 5
+Holyoke - mile 21.50: MA 141
+Holyoke - mile 21.60: US 5
+South Hadley - mile 23.30: MA 116
+South Hadley - mile 24.30: MA 33
+Belchertown - mile 33.40: MA 21
+Belchertown - mile 34.40: MA 21 / MA 181
+Belchertown - mile 35.30: MA 9
+New Salem - mile 55.10: MA 122
+Orange - mile 56.00: MA 122
+Orange - mile 57.00: MA 2
+Athol - mile 61.50: MA 32
+Phillipston - mile 63.10: MA 2A
+Phillipston - mile 65.30: MA 2 / MA 2A
+Templeton - mile 66.60: MA 2A
+Templeton - mile 68.30: MA 68
+Templeton - mile 69.70: MA 68
+Winchendon - mile 75.70: MA 12
+Winchendon - mile 75.90: MA 12
