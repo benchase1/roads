@@ -1,0 +1,7 @@
+Providence - mile 0.00: RI 12
+Providence - mile 0.50: US 1
+Cranston - mile 0.70: I-95
+Providence - mile 1.40: RI 2
+Providence - mile 3.50: US 6
+Providence - mile 3.70: US 6
+Providence - mile 4.90: I-95 / US 6
