@@ -1,0 +1,21 @@
+Charlestown - mile 0.00: US 1 / RI 112
+Charlestown - mile 3.00: RI 112
+South Kingstown - mile 9.60: RI 138
+North Kingstown - mile 16.40: RI 102
+North Kingstown - mile 17.10: RI 4
+North Kingstown - mile 17.40: RI 102
+East Greenwich - mile 19.70: RI 4
+East Greenwich - mile 20.60: RI 402
+East Greenwich - mile 23.10: RI 401
+Warwick - mile 23.30: I-95
+Warwick - mile 24.60: RI 3
+Warwick - mile 25.40: RI 117
+Warwick - mile 26.40: RI 115
+Warwick - mile 27.10: RI 113
+Warwick - mile 27.50: I-295
+Cranston - mile 28.40: RI 33
+Cranston - mile 28.60: RI 5
+Cranston - mile 29.90: RI 37
+Cranston - mile 32.20: RI 12
+Providence - mile 32.70: RI 10
+Providence - mile 33.60: US 1

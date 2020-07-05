@@ -1,0 +1,18 @@
+Warwick - mile 0.00: US 1
+Warwick - mile 1.20: RI 117
+Cranston - mile 2.10: RI 12
+Providence - mile 4.40: I-95
+Providence - mile 5.90: US 44
+Providence - mile 6.40: I-195 / US 6
+East Providence - mile 5.80: US 44
+East Providence - mile 7.00: RI 103
+East Providence - mile 8.40: RI 114
+East Providence - mile 8.60: I-195
+East Providence - mile 8.70: US 6
+East Providence - mile 9.00: RI 103 / RI 114
+East Providence - mile 9.80: US 44
+East Providence - mile 10.70: RI 114A
+East Providence - mile 11.30: RI 152
+East Providence - mile 11.80: RI 114
+Pawtucket - mile 14.00: RI 15
+Pawtucket - mile 15.20: MA 1A

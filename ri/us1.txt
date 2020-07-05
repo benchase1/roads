@@ -1,0 +1,42 @@
+Westerly - mile 0.10: RI 1A
+Westerly - mile 0.30: RI 3
+Westerly - mile 2.20: RI 78
+Westerly - mile 5.70: RI 1A
+Charlestown - mile 7.10: RI 216
+Charlestown - mile 9.80: RI 1A
+Charlestown - mile 11.20: RI 1A
+Charlestown - mile 11.40: RI 1A
+Charlestown - mile 11.90: RI 2 / RI 112
+South Kingstown - mile 14.55: RI 1A
+South Kingstown - mile 16.40: RI 110
+South Kingstown - mile 16.60: RI 1A
+South Kingstown - mile 18.42: RI 1A
+Narragansett - mile 21.40: RI 108
+Narragansett - mile 21.90: RI 1A
+South Kingstown - mile 26.30: RI 138
+North Kingstown - mile 28.60: RI 138
+North Kingstown - mile 29.50: RI 4
+North Kingstown - mile 31.50: RI 102
+North Kingstown - mile 32.00: RI 1A
+North Kingstown - mile 34.40: RI 403
+North Kingstown - mile 36.30: RI 402
+East Greenwich - mile 38.10: RI 401
+Warwick - mile 41.40: RI 117
+Warwick - mile 41.50: RI 5
+Warwick - mile 42.80: RI 113
+Warwick - mile 44.80: RI 37
+Warwick - mile 45.70: US 1A
+Cranston - mile 47.60: RI 12
+Providence - mile 48.00: RI 10
+Providence - mile 48.50: I-95
+Providence - mile 49.20: RI 2
+Providence - mile 50.40: RI 117
+Providence - mile 51.10: I-95 / US 6
+Providence - mile 51.60: US 44
+Providence - mile 52.00: US 44
+Providence - mile 52.20: RI 246
+Providence - mile 53.70: RI 126
+Pawtucket - mile 54.10: RI 122
+Pawtucket - mile 55.30: I-95
+Pawtucket - mile 55.50: RI 114
+Pawtucket - mile 56.10: I-95

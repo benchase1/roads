@@ -1,0 +1,17 @@
+Westerly - mile 0.00: US 1
+Westerly - mile 8.80: US 1
+Charlestown - mile 10.20: RI 216
+Charlestown - mile 12.90: US 1
+Charlestown - mile 14.30: US 1
+Charlestown - mile 14.37: US 1
+South Kingstown - mile 17.57: US 1
+South Kingstown - mile 19.37: RI 110
+South Kingstown - mile 19.77: US 1
+South Kingstown - mile 21.79: US 1
+South Kingstown - mile 22.99: US 1
+South Kingstown - mile 26.09: RI 108
+Narragansett - mile 26.59: US 1
+Narragansett - mile 26.69: RI 108
+North Kingstown - mile 35.49: RI 138
+North Kingstown - mile 38.79: RI 102
+North Kingstown - mile 39.49: US 1

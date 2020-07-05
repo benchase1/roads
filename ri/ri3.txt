@@ -1,0 +1,16 @@
+Westerly - mile 0.00: US 1
+Westerly - mile 0.50: RI 91
+Westerly - mile 1.20: RI 78
+Hopkinton - mile 4.50: RI 216
+Hopkinton - mile 4.60: RI 216
+Hopkinton - mile 6.30: I-95
+Hopkinton - mile 11.90: RI 138
+Richmond - mile 12.80: RI 138
+Richmond - mile 14.90: I-95
+Exeter - mile 18.00: RI 165
+Exeter - mile 19.10: RI 102
+Exeter - mile 19.30: RI 102
+West Greenwich - mile 23.90: I-95
+Coventry - mile 25.20: RI 118
+Coventry - mile 27.60: RI 33
+Warwick - mile 30.10: RI 2
