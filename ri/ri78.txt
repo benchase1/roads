@@ -1,0 +1,4 @@
+Westerly - mile 0.00: CT 78
+Westerly - mile 1.70: RI 3
+Westerly - mile 2.70: RI 91
+Westerly - mile 4.20: US 1

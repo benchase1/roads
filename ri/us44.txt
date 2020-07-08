@@ -1,0 +1,16 @@
+Glocester - mile 1.60: RI 94
+Glocester - mile 6.80: RI 100 / RI 102
+Glocester - mile 7.40: RI 102
+Smithfield - mile 14.10: RI 116
+Smithfield - mile 14.20: RI 116
+Smithfield - mile 15.20: RI 5
+Smithfield - mile 16.00: I-295
+North Providence - mile 17.60: RI 128
+North Providence - mile 17.80: RI 104
+North Providence - mile 17.85: RI 15
+Providence - mile 22.00: US 1
+Providence - mile 22.12: US 1
+Providence - mile 23.20: US 1A
+Providence - mile 23.80: I-195 / US 6
+East Providence - mile 24.20: I-195 / US 1A / US 6
+East Providence - mile 25.90: US 1A / RI 114

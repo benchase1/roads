@@ -1,0 +1,4 @@
+Portsmouth - mile 0.00: RI 114
+Portsmouth - mile 2.00: RI 138
+Tiverton - mile 4.40: RI 77 / RI 138
+Tiverton - mile 7.70: MA 24

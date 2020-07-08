@@ -1,0 +1,8 @@
+Coventry - mile 0.00: RI 3
+Coventry - mile 0.50: RI 117
+Coventry - mile 0.70: RI 116
+Coventry - mile 2.10: RI 117
+West Warwick - mile 3.10: RI 115
+West Warwick - mile 4.60: RI 115
+Cranston - mile 6.50: RI 2
+Cranston - mile 6.80: RI 2
