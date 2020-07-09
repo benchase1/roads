@@ -1,0 +1,24 @@
+Hopkinton - mile 0.70: RI 3
+Richmond - mile 7.30: RI 138
+Richmond - mile 9.00: RI 3
+West Greenwich - mile 13.95: RI 102
+West Greenwich - mile 18.15: RI 3
+Warwick - mile 23.90: RI 2
+Warwick - mile 24.80: RI 4
+Warwick - mile 26.90: RI 117
+Warwick - mile 27.60: I-295
+Warwick - mile 28.25: I-295 / RI 113
+Warwick - mile 29.50: US 1
+Warwick - mile 30.20: RI 37
+Cranston - mile 33.50: RI 10
+Providence - mile 34.20: US 1
+Providence - mile 35.25: US 1A
+Providence - mile 36.15: I-195 / US 6
+Providence - mile 37.50: US 6 / RI 10
+Providence - mile 38.00: RI 146
+Providence - mile 38.50: RI 246
+Providence - mile 39.70: US 1 / RI 126
+Pawtucket - mile 40.60: RI 122
+Pawtucket - mile 41.35: US 1 / RI 15
+Pawtucket - mile 41.65: RI 114
+Pawtucket - mile 42.35: US 1 / RI 15

@@ -1,0 +1,5 @@
+Glocester - mile 0.00: RI 100
+Burillville - mile 2.70: RI 107
+Burillville - mile 2.80: RI 107
+Burillville - mile 3.00: RI 96
+Burillville - mile 6.10: MA 98

@@ -1,0 +1,22 @@
+North Kingstown - mile 0.00: RI 1A
+North Kingstown - mile 0.60: US 1
+North Kingstown - mile 2.90: RI 2
+North Kingstown - mile 3.20: RI 4
+North Kingstown - mile 3.90: RI 2
+Exeter - mile 11.20: RI 3
+Exeter - mile 11.30: RI 3
+West Greenwich - mile 12.10: I-95
+Coventry - mile 18.00: RI 118
+Coventry - mile 18.90: RI 117
+Foster - mile 22.20: RI 14
+Foster - mile 25.10: RI 94
+Scituate - mile 26.80: RI 12
+Scituate - mile 27.40: RI 14
+Scituate - mile 29.80: US 6
+Scituate - mile 30.90: RI 101
+Glocester - mile 35.60: US 44
+Glocester - mile 36.10: US 44
+Glocester - mile 36.30: RI 110
+Burrillville - mile 39.90: RI 107
+Burrillville - mile 41.80: RI 7
+North Smithfield - mile 44.40: RI 5 / RI 146A

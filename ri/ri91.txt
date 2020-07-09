@@ -1,0 +1,5 @@
+Westerly - mile 0.00: RI 3
+Westerly - mile 1.10: RI 78
+Westerly - mile 5.10: RI 216
+Hopkinton - mile 6.00: RI 216
+Charlestown - mile 12.00: RI 112
