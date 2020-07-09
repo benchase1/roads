@@ -294,6 +294,240 @@ public class ri {
       System.out.println("An error occurred.");
       e.printStackTrace();
     } }
+    else if (id.equals("ri81")) {
+    try {
+      File obj = new File("ri/ri81.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri91")) {
+    try {
+      File obj = new File("ri/ri91.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri94")) {
+    try {
+      File obj = new File("ri/ri94.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("i95")) {
+    try {
+      File obj = new File("ri/i95.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri96")) {
+    try {
+      File obj = new File("ri/ri96.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri98")) {
+    try {
+      File obj = new File("ri/ri98.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri99")) {
+    try {
+      File obj = new File("ri/ri99.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri100")) {
+    try {
+      File obj = new File("ri/ri100.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri101")) {
+    try {
+      File obj = new File("ri/ri101.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri102")) {
+    try {
+      File obj = new File("ri/ri102.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri103")) {
+    try {
+      File obj = new File("ri/ri103.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri103a")) {
+    try {
+      File obj = new File("ri/ri103a.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri104")) {
+    try {
+      File obj = new File("ri/ri104.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri107")) {
+    try {
+      File obj = new File("ri/ri107.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri108")) {
+    try {
+      File obj = new File("ri/ri108.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri110")) {
+    try {
+      File obj = new File("ri/ri110.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri112")) {
+    try {
+      File obj = new File("ri/ri112.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri113")) {
+    try {
+      File obj = new File("ri/ri113.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
     else {
         System.out.println("Not a valid route.");
     }
