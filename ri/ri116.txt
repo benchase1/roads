@@ -1,0 +1,16 @@
+Coventry - mile 0.00: RI 33 / RI 117
+Scituate - mile 2.90: RI 115
+Scituate - mile 4.90: RI 12
+Scituate - mile 6.90: RI 14
+Scituate - mile 10.70: US 6
+Smithfield - mile 14.00: US 44
+Smithfield - mile 14.10: US 44
+Smithfield - mile 15.00: RI 5
+Smithfield - mile 16.80: RI 104
+Smithfield - mile 17.00: RI 5 / RI 104
+Smithfield - mile 18.30: RI 7
+Lincoln - mile 21.40: RI 146
+Lincoln - mile 22.20: RI 126
+Cumberland - mile 23.30: RI 122
+Cumberland - mile 23.40: RI 122
+Cumberland - mile 25.10: RI 114

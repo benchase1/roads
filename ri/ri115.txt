@@ -1,0 +1,6 @@
+Scituate - mile 0.00: RI 116
+West Warwick - mile 2.30: RI 51
+West Warwick - mile 3.30: RI 33
+West Warwick - mile 4.30: RI 33
+Warwick - mile 4.80: RI 2
+Warwick - mile 6.40: RI 117

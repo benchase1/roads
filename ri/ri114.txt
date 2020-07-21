@@ -1,0 +1,28 @@
+Middletown - mile 0.00: RI 138
+Middletown - mile 0.80: RI 138
+Middletown - mile 1.30: RI 214
+Portsmouth - mile 7.00: RI 24
+Bristol - mile 10.80: RI 136
+Warren - mile 16.60: RI 103
+Barrington - mile 20.00: RI 103
+East Providence - mile 22.40: RI 114A
+East Providence - mile 23.20: I-195
+East Providence - mile 24.20: RI 103
+East Providence - mile 25.10: US 1A / RI 103
+East Providence - mile 25.20: I-195 / US 1A / US 6
+East Providence - mile 25.90: US 44
+East Providence - mile 26.80: RI 114A
+East Providence - mile 27.30: RI 152
+East Providence - mile 27.90: US 1A
+Pawtucket - mile 30.20: I-95 / US 1
+Pawtucket - mile 30.30: RI 15
+Pawtucket - mile 30.60: RI 15
+Cumberland - mile 32.80: RI 123
+Cumberland - mile 33.10: RI 123
+Cumberland - mile 35.60: RI 116
+Cumberland - mile 35.90: I-295
+Cumberland - mile 38.30: RI 120
+Cumberland - mile 40.00: RI 121
+Woonsocket - mile 44.30: RI 126
+Woonsocket - mile 44.40: RI 126
+Woonsocket - mile 45.70: RI 122

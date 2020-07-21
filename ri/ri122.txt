@@ -1,0 +1,15 @@
+Pawtucket - mile 0.00: US 1
+Pawtucket - mile 1.00: I-95
+Pawtucket - mile 1.10: RI 15
+Lincoln - mile 3.50: RI 123
+Cumberland - mile 6.10: RI 116
+Cumberland - mile 6.30: RI 116
+Cumberland - mile 6.80: I-295
+Cumberland - mile 9.30: RI 120
+Woonsocket - mile 10.60: RI 99
+Woonsocket - mile 12.10: RI 126
+Woonsocket - mile 12.40: RI 126
+Woonsocket - mile 13.00: RI 104
+Woonsocket - mile 13.26: RI 104
+Woonsocket - mile 13.80: RI 114
+Woonsocket - mile 14.20: MA 122

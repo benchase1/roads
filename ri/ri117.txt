@@ -1,0 +1,15 @@
+Coventry - mile 0.00: RI 14
+Coventry - mile 4.50: RI 102
+Coventry - mile 12.50: RI 33
+Coventry - mile 12.70: RI 116
+Coventry - mile 14.00: RI 33
+Warwick - mile 16.00: RI 2
+Warwick - mile 17.10: I-95
+Warwick - mile 17.70: RI 115
+Warwick - mile 17.90: US 1 / RI 5
+Warwick - mile 19.80: RI 113
+Warwick - mile 21.20: RI 117A
+Warwick - mile 25.20: RI 117A
+Warwick - mile 27.10: US 1A
+Cranston - mile 28.00: RI 12
+Cranston - mile 28.40: US 1A
