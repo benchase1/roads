@@ -45,6 +45,7 @@ Waltham - mile 144.59: I-95
 Waltham - mile 145.81: MA 117
 Waltham - mile 147.07: MA 60
 Watertown - mile 149.37: MA 16
+Boston - mile 150.77: Soldiers Field Road
 Boston - mile 152.65: MA 30
 Boston - mile 153.37: MA 2
 Boston - mile 154.11: MA 2

@@ -8,7 +8,7 @@ Boston - mile 11.58: MA 3A
 Boston - mile 16.30: I-90
 Boston - mile 17.87: MA 1A
 Boston - mile 18.60: US 1
-Boston - mile 18.74: MA 3 / MA 28
+Boston - mile 18.74: MA 3 / MA 28 / Storrow Drive
 Somerville - mile 20.26: MA 28 / MA 38
 Medford - mile 21.80: MA 16
 Medford - mile 22.55: MA 60

@@ -15,5 +15,6 @@ Framingham - mile 116.60: MA 30
 Weston - mile 126.88: I-95
 Weston - mile 123.46: MA 30
 Newton - mile 125.21: MA 16
+Boston - mile 131.00: Soldiers Field Road / Storrow Drive
 Boston - mile 134.32: I-93
 Boston - mile 138.15: MA 1A

@@ -7,7 +7,7 @@ public class ma {
     Scanner input = new Scanner(System.in);
     System.out.print("Enter route: ");
     String id = input.nextLine();
-    
+
     if (id.equals("us1")) {
     try {
       File obj = new File("ma/us1.txt");
@@ -2228,8 +2228,47 @@ public class ma {
       System.out.println("An error occurred.");
       e.printStackTrace();
     } }
+    else if (id.equals("lowell-connector")) {
+    try {
+      File obj = new File("ma/lowell-connector.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("soldiers-field-road")) {
+    try {
+      File obj = new File("ma/soldiers-field-road.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("storrow-drive")) {
+    try {
+      File obj = new File("ma/storrow-drive.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
     else {
         System.out.println("Not a valid route.");
     }
-  } 
+  }
 }

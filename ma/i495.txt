@@ -30,6 +30,7 @@ Littleton - mile 80.21: MA 119
 Chelmsford - mile 87.33: MA 4
 Chelmsford - mile 88.18: MA 4 / MA 110
 Chelmsford - mile 89.14: US 3
+Chelmsford - mile 89.43: Lowell Connector
 Tewksbury - mile 92.28: MA 38
 Tewksbury - mile 94.61: MA 113
 Andover - mile 97.02: I-93

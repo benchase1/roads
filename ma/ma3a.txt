@@ -16,7 +16,7 @@ Boston - mile 53.60: MA 203
 Boston - mile 53.61: I-93 / US 1 / MA 3
 Boston - mile 58.35: I-90
 Boston - mile 59.61: MA 1A
-Boston - mile 60.09: I-93 / US 1 
+Boston - mile 60.09: I-93 / US 1
 Boston - mile 60.69: MA 28
 Boston - mile 60.99: MA 28
 Cambridge - mile 62.19: MA 2A
@@ -33,6 +33,7 @@ Burlington - mile 78.13: MA 62
 Burlington - mile 78.73: MA 62
 Billerica - mile 83.33: MA 129
 Billerica - mile 84.53: MA 129
+Lowell - mile 87.30: Lowell Connector
 Lowell - mile 88.63: MA 110
 Lowell - mile 88.83: MA 110
 Chelmsford - mile 92.03: MA 4
