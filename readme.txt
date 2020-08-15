@@ -7,6 +7,8 @@ In the event of multiple instances, such as US 1A in Maine, input the above code
 
 Routes included in this database are from Travel Mapping (travelmapping.net), however, I have the right to add or remove routes if they fit or don't fit the use of this database.
 
+Named roads, such as the Lowell Connector in Massachusetts, are in the database as "lowell-connector", with the same spacing rules as town names.
+
 Additional names such as business or bypass are not hyphenated. For example, I-90 business would be "i90bus". US 6 bypass would be "us6byp". Names such as "toll", "loop", or "spur" are not added.
 
 Exception to the above: Texas Spur and Loop Routes are added, and will be in the Texas file with names like "spur1" or "loop1". Other Texas routes added would be Farm / Ranch to Market ("farm1", ranch not used), Park ("park"), Recreation ("rec"), and Ranch Road 1 ("ranch1").
