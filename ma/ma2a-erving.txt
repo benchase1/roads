@@ -1,0 +1,42 @@
+Erving - mile 0.00: MA 63
+Erving - mile 7.60: MA 2
+Orange - mile 9.80: MA 78
+Orange - mile 11.10: MA 122
+Athol - mile 16.10: MA 32
+Athol - mile 17.50: MA 32
+Athol - mile 18.60: US 202 / MA 2
+Phillipston - mile 19.30: US 202 / MA 2
+Phillipston - mile 21.60: US 202 / MA 2
+Templeton - mile 22.40: US 202
+Templeton - mile 23.40: MA 101
+Templeton - mile 26.40: MA 2
+Templeton - mile 27.10: MA 101
+Gardner - mile 29.50: MA 68
+Westminster - mile 34.70: MA 2 / MA 140
+Westminster - mile 34.90: MA 2 / MA 140
+Fitchburg - mile 38.60: MA 31
+Fitchburg - mile 39.70: MA 12
+Fitchburg - mile 40.50: MA 12
+Fitchburg - mile 41.50: MA 31
+Lunenburg - mile 44.30: MA 13
+Lunenburg - mile 44.60: MA 13
+Lunenburg - mile 48.90: MA 225
+Ayer - mile 53.90: MA 111
+Ayer - mile 55.60: MA 110 / MA 111
+Littleton - mile 60.10: I-495
+Littleton - mile 60.70: MA 110 / MA 119
+Acton - mile 65.70: MA 27
+Concord - mile 68.50: MA 2 / MA 111 / MA 119
+Concord - mile 69.80: MA 62
+Concord - mile 72.00: MA 126
+Concord - mile 73.10: MA 2
+Lexington - mile 76.50: I-95
+Lexington - mile 79.20: MA 4 / MA 225
+Lexington - mile 79.30: MA 4 / MA 225
+Arlington - mile 82.90: US 3
+Arlington - mile 83.10: MA 60
+Arlington - mile 83.20: MA 60
+Cambridge - mile 84.60: US 3 / MA 16
+Cambridge - mile 88.70: US 3 / MA 3
+Boston - mile 89.11: Storrow Drive
+Boston - mile 89.40: MA 2

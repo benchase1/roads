@@ -1,0 +1,13 @@
+Burlington - mile 0.00: I-95 / US 3
+Burlington - mile 2.40: MA 62
+Burlington - mile 3.00: MA 62
+Billerica - mile 7.60: MA 129
+Billerica - mile 8.80: MA 129
+Lowell - mile 12.45: Lowell Connector
+Lowell - mile 12.90: MA 110
+Lowell - mile 13.10: MA 110
+Chelmsford - mile 14.30: MA 4
+Chelmsford - mile 15.00: MA 40
+Tyngsboro - mile 20.30: MA 113
+Tyngsboro - mile 20.50: MA 113
+Tyngsboro - mile 22.20: NH 3A

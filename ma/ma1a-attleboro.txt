@@ -1,0 +1,4 @@
+Attleboro - mile 0.00: US 1A
+Attleboro - mile 0.41: I-95
+Attleboro - mile 1.64: MA 123
+Attleboro - mile 1.73: US 1 

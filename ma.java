@@ -22,9 +22,37 @@ public class ma {
       e.printStackTrace();
     }
     }
-    else if (id.equals("ma1a")) {
+    else if (id.equals("ma1a-attleboro")) {
     try {
-      File obj = new File("ma/ma1a.txt");
+      File obj = new File("ma/ma1a-attleboro.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma1a-north-attleboro")) {
+    try {
+      File obj = new File("ma/ma1a-north-attleboro.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma1a-boston")) {
+    try {
+      File obj = new File("ma/ma1a-boston.txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();
@@ -50,9 +78,37 @@ public class ma {
       e.printStackTrace();
     }
     }
-    else if (id.equals("ma2a")) {
+    else if (id.equals("ma2a-buckland")) {
     try {
-      File obj = new File("ma/ma2a.txt");
+      File obj = new File("ma/ma2a-buckland.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma2a-greenfield")) {
+    try {
+      File obj = new File("ma/ma2a-greenfield.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma2a-erving")) {
+    try {
+      File obj = new File("ma/ma2a-erving.txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();
@@ -92,9 +148,23 @@ public class ma {
       e.printStackTrace();
     }
     }
-    else if (id.equals("ma3a")) {
+    else if (id.equals("ma3a-plymouth")) {
     try {
-      File obj = new File("ma/ma3a.txt");
+      File obj = new File("ma/ma3a-plymouth.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma3a-burlington")) {
+    try {
+      File obj = new File("ma/ma3a-burlington.txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();
@@ -148,9 +218,23 @@ public class ma {
       e.printStackTrace();
     }
     }
-    else if (id.equals("ma6a")) {
+    else if (id.equals("ma6a-bourne")) {
     try {
-      File obj = new File("ma/ma6a.txt");
+      File obj = new File("ma/ma6a-bourne.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma6a-truro")) {
+    try {
+      File obj = new File("ma/ma6a-truro.txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();
@@ -176,9 +260,23 @@ public class ma {
       e.printStackTrace();
     }
     }
-    else if (id.equals("ma7a")) {
+    else if (id.equals("ma7a-sheffield")) {
     try {
-      File obj = new File("ma/ma7a.txt");
+      File obj = new File("ma/ma7a-sheffield.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+    }
+    else if (id.equals("ma7a-lenox")) {
+    try {
+      File obj = new File("ma/ma7a-lenox.txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();

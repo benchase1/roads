@@ -1,0 +1,16 @@
+Plymouth - mile 0.00: MA 3
+Plymouth - mile 15.00: US 44
+Kingston - mile 18.30: MA 3
+Kingston - mile 18.70: MA 80
+Kingston - mile 18.90: MA 106
+Kingston - mile 20.30: MA 53
+Duxbury - mile 20.60: MA 3
+Dubxury - mile 24.20: MA 14
+Duxbury - mile 25.00: MA 139
+Marshfield - mile 27.70: MA 139
+Marshfield - mile 28.10: MA 139
+Scituate - mile 34.50: MA 123
+Hingham - mile 42.20: MA 228
+Quincy - mile 49.00: MA 53
+Boston - mile 53.60: MA 203
+Boston - mile 53.61: I-93 / US 1 / MA 3

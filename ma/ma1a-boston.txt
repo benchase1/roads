@@ -1,0 +1,20 @@
+Boston - mile 0.00: I-93 / US 1 / MA 3
+Boston - mile 1.93: I-90
+Boston - mile 2.22: MA 145
+Revere - mile 4.40: MA 145
+Revere - mile 4.76: MA 16 / MA 60
+Lynn - mile 9.93: MA 129
+Lynn - mile 11.08: MA 129
+Salem - mile 14.46: MA 114
+Salem - mile 15.24: MA 114
+Salem - mile 16.16: MA 107
+Beverly - mile 17.36: MA 22 / MA 127
+Beverly - mile 18.15: MA 62
+Beverly - mile 19.61: MA 97
+Beverly - mile 19.81: MA 128
+Ipswich - mile 27.51: MA 133
+Rowley - mile 31.66: MA 133
+Newburyport - mile 40.31: MA 113
+Newburyport - mile 40.50: US 1
+Salisbury - mile 42.79: US 1 / MA 110
+Salisbury - mile 47.03: NH 1A

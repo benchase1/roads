@@ -6,3 +6,4 @@ Millbury - mile 16.90: MA 122A
 Millbury - mile 17.90: I-90 / US 20
 Worcester - mile 19.50: MA 122A
 Worcester - mile 20.50: I-290
+Worcester - mile 20.99: Cambridge Street / Millbury Street / Quinsigamond Avenue
