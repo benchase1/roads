@@ -6,3 +6,4 @@ Cranston - mile 14.60: RI 2
 Cranston - mile 15.60: US 1
 Cranston - mile 15.80: RI 10
 Cranston - mile 16.60: US 1A / RI 117
+Cranston - mile 17.00: Broad Street

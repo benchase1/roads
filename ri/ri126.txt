@@ -1,0 +1,10 @@
+Providence - mile 0.00: US 1
+Providence - mile 0.30: I-95
+Pawtucket - mile 1.60: RI 15
+Lincoln - mile 3.90: RI 123
+Lincoln - mile 7.10: RI 116
+Woonsocket - mile 12.80: RI 122
+Woonsocket - mile 13.00: RI 122
+Woonsocket - mile 13.90: RI 114
+Woonsocket - mile 14.00: RI 114
+Woonsocket - mile 14.30: MA 126

@@ -22,6 +22,11 @@ public class ma {
       e.printStackTrace();
     }
     }
+    else if (id.equals("ma1a")) {
+      System.out.println("ma1a-attleboro - 1.73 miles");
+      System.out.println("ma1a-north-attleboro - 20.03 miles");
+      System.out.println("ma1a-boston - 47.03 miles");
+    }
     else if (id.equals("ma1a-attleboro")) {
     try {
       File obj = new File("ma/ma1a-attleboro.txt");
@@ -77,6 +82,11 @@ public class ma {
       System.out.println("An error occurred.");
       e.printStackTrace();
     }
+    }
+    else if (id.equals("ma2a")) {
+      System.out.println("ma2a-buckland - 1.50 miles");
+      System.out.println("ma2a-greenfield - 4.10 miles");
+      System.out.println("ma2a-erving - 89.40 miles");
     }
     else if (id.equals("ma2a-buckland")) {
     try {
@@ -148,6 +158,10 @@ public class ma {
       e.printStackTrace();
     }
     }
+    else if (id.equals("ma3a")) {
+      System.out.println("ma3a-plymouth - 53.61 miles");
+      System.out.println("ma3a-burlington - 22.20 miles");
+    }
     else if (id.equals("ma3a-plymouth")) {
     try {
       File obj = new File("ma/ma3a-plymouth.txt");
@@ -218,6 +232,10 @@ public class ma {
       e.printStackTrace();
     }
     }
+    else if (id.equals("ma6a")) {
+      System.out.println("ma6a-bourne - 34.97 miles");
+      System.out.println("ma6a-truro - 8.77 miles");
+    }
     else if (id.equals("ma6a-bourne")) {
     try {
       File obj = new File("ma/ma6a-bourne.txt");
@@ -260,6 +278,10 @@ public class ma {
       e.printStackTrace();
     }
     }
+    else if (id.equals("ma7a")) {
+      System.out.println("ma7a-sheffield - 3.00 miles");
+      System.out.println("ma7a-lenox - 2.30 miles");
+    }
     else if (id.equals("ma7a-sheffield")) {
     try {
       File obj = new File("ma/ma7a-sheffield.txt");
@@ -301,6 +323,10 @@ public class ma {
       System.out.println("An error occurred.");
       e.printStackTrace();
     }
+    }
+    else if (id.equals("ma8a")) {
+      System.out.println("ma8a-l - 35.84 miles");
+      System.out.println("ma8a-u - 3.17 miles");
     }
     else if (id.equals("ma8a-l")) {
     try {

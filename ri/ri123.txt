@@ -1,0 +1,7 @@
+Lincoln - mile 0.00: RI 116
+Lincoln - mile 3.40: RI 246
+Lincoln - mile 3.60: RI 146
+Lincoln - mile 5.50: RI 126
+Lincoln - mile 6.10: RI 122
+Cumberland - mile 7.20: RI 114
+Cumberland - mile 7.80: MA 123

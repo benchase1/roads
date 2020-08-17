@@ -21,9 +21,9 @@ public class ri {
       System.out.println("An error occurred.");
       e.printStackTrace();
     } }
-    else if (id.equals("us1a")) {
+    else if (id.equals("us1bus")) {
     try {
-      File obj = new File("ri/us1a.txt");
+      File obj = new File("ri/us1bus.txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();
@@ -35,8 +35,53 @@ public class ri {
       e.printStackTrace();
     } }
     else if (id.equals("ri1a")) {
+      System.out.println("ri1a-westerly - 8.80 miles");
+      System.out.println("ri1a-charlestown - 6.77 miles");
+      System.out.println("ri1a-south-kingstown - 16.50 miles");
+      System.out.println("ri1a-warwick - 15.20 miles");
+    }
+    else if (id.equals("ri1a-westerly")) {
     try {
-      File obj = new File("ri/ri1a.txt");
+      File obj = new File("ri/ri1a-westerly.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri1a-charlestown")) {
+    try {
+      File obj = new File("ri/ri1a-charlestown.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri1a-south-kingstown")) {
+    try {
+      File obj = new File("ri/ri1a-south-kingstown.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri1a-warwick")) {
+    try {
+      File obj = new File("ri/ri1a-warwick.txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();
@@ -542,8 +587,25 @@ public class ri {
       e.printStackTrace();
     } }
     else if (id.equals("ri114a")) {
+      System.out.println("ri114a-east-providence-s - 0.10 miles");
+      System.out.println("ri114a-east-providence-n - 0.30 miles");
+    }
+    else if (id.equals("ri114a-east-providence-s")) {
     try {
-      File obj = new File("ri/ri114a.txt");
+      File obj = new File("ri/ri114a-east-providence-s.txt");
+      Scanner read = new Scanner(obj);
+      while (read.hasNextLine()) {
+        String data = read.nextLine();
+        System.out.println(data);
+      }
+      read.close();
+    } catch (FileNotFoundException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    } }
+    else if (id.equals("ri114a-east-providence-n")) {
+    try {
+      File obj = new File("ri/ri114a-east-providence-n.txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();
