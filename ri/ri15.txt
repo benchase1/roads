@@ -6,4 +6,4 @@ Pawtucket - mile 3.80: RI 126
 Pawtucket - mile 4.60: RI 122
 Pawtucket - mile 5.50: RI 114
 Pawtucket - mile 6.00: I-95 / US 1
-Pawtucket - mile 7.40: US 1A
+Pawtucket - mile 7.40: RI 1A

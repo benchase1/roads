@@ -1,0 +1,10 @@
+Providence - mile 0.00: US 1
+Providence - mile 0.20: RI 7
+Providence - mile 0.40: I-95
+Providence - mile 0.80: RI 146
+North Providence - mile 2.70: RI 15
+North Providence - mile 3.20: RI 146
+Lincoln - mile 5.40: RI 123
+Lincoln - mile 6.80: RI 146
+Lincoln - mile 7.80: RI 146
+Lincoln - mile 8.00: RI 116

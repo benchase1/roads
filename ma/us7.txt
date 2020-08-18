@@ -1,3 +1,4 @@
+Sheffield - mile 0.00: US 7 (Connecticut)
 Sheffield - mile 2.96: MA 7A
 Great Barrington - mile 10.48: MA 23 / MA 41
 Great Barrington - mile 11.45: MA 41
@@ -15,3 +16,4 @@ Pittsfield - mile 31.16: MA 9
 Williamstown - mile 47.21: MA 43
 Williamstown - mile 49.08: MA 2
 Williamstown - mile 51.41: MA 2
+Williamstown - mile 53.90: US 7 (Vermont)

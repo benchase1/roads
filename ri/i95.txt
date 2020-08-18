@@ -1,3 +1,4 @@
+Hopkinton - mile 0.00: I-95 (Connecticut)
 Hopkinton - mile 0.70: RI 3
 Richmond - mile 7.30: RI 138
 Richmond - mile 9.00: RI 3
@@ -12,7 +13,7 @@ Warwick - mile 29.50: US 1
 Warwick - mile 30.20: RI 37
 Cranston - mile 33.50: RI 10
 Providence - mile 34.20: US 1
-Providence - mile 35.25: US 1A
+Providence - mile 35.25: RI 1A
 Providence - mile 36.15: I-195 / US 6
 Providence - mile 37.50: US 6 / RI 10
 Providence - mile 38.00: RI 146
@@ -22,3 +23,4 @@ Pawtucket - mile 40.60: RI 122
 Pawtucket - mile 41.35: US 1 / RI 15
 Pawtucket - mile 41.65: RI 114
 Pawtucket - mile 42.35: US 1 / RI 15
+Pawtucket - mile 43.30: I-95 (Massachusetts)

@@ -10,6 +10,6 @@ Warwick - mile 17.90: US 1 / RI 5
 Warwick - mile 19.80: RI 113
 Warwick - mile 21.20: RI 117A
 Warwick - mile 25.20: RI 117A
-Warwick - mile 27.10: US 1A
+Warwick - mile 27.10: RI 1A
 Cranston - mile 28.00: RI 12
-Cranston - mile 28.40: US 1A
+Cranston - mile 28.40: RI 1A

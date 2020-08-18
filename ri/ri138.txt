@@ -1,0 +1,18 @@
+Exeter - mile 0.00: CT 138
+Hopkinton - mile 5.60: RI 3
+Richmond - mile 6.60: RI 3
+Richmond - mile 7.10: I-95
+Richmond - mile 9.10: RI 112
+South Kingstown - mile 14.50: RI 2
+South Kingstown - mile 15.90: RI 110
+South Kingstown - mile 17.50: RI 108
+South Kingstown - mile 21.00: US 1
+North Kingstown - mile 23.30: US 1
+North Kingstown - mile 25.60: RI 1A
+Newport - mile 32.40: RI 238
+Middletown - mile 34.50: RI 114
+Middletown - mile 34.90: RI 214
+Middletown - mile 35.50: RI 138A
+Portsmouth - mile 43.30: RI 24
+Tiverton - mile 45.60: RI 24
+Tiverton - mile 48.30: MA 138

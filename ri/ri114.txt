@@ -8,12 +8,12 @@ Barrington - mile 20.00: RI 103
 East Providence - mile 22.40: RI 114A
 East Providence - mile 23.20: I-195
 East Providence - mile 24.20: RI 103
-East Providence - mile 25.10: US 1A / RI 103
-East Providence - mile 25.20: I-195 / US 1A / US 6
+East Providence - mile 25.10: RI 1A / RI 103
+East Providence - mile 25.20: I-195 / US 6 / RI 1A
 East Providence - mile 25.90: US 44
 East Providence - mile 26.80: RI 114A
 East Providence - mile 27.30: RI 152
-East Providence - mile 27.90: US 1A
+East Providence - mile 27.90: RI 1A
 Pawtucket - mile 30.20: I-95 / US 1
 Pawtucket - mile 30.30: RI 15
 Pawtucket - mile 30.60: RI 15

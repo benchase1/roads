@@ -1,3 +1,4 @@
+Longmeadow - mile 0.00: US 5 (Connecticut)
 Longmeadow - mile 1.80: MA 192
 Springfield - mile 3.50: I-91
 Springfield - mile 3.70: MA 83
@@ -23,3 +24,4 @@ Deerfield - mile 34.80: MA 116
 Greenfield - mile 42.50: MA 2A
 Greenfield - mile 44.20: MA 2
 Bernardston - mile 49.00: MA 10
+Bernardston - mile 53.46: US 5 (Vermont)

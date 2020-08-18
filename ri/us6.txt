@@ -1,3 +1,4 @@
+Foster - mile 0.00: US 6 (Connecticut)
 Foster - mile 3.30: RI 94
 Scituate - mile 6.50: US 6 Business
 Scituate - mile 6.70: RI 102
@@ -14,9 +15,10 @@ Providence - mile 19.70: RI 14
 Providence - mile 19.75: RI 10
 Providence - mile 21.30: I-95
 Providence - mile 21.40: I-95
-Providence - mile 23.30: US 1A / US 44
+Providence - mile 23.30: US 44 / RI 1A
 East Providence - mile 23.95: US 44
 East Providence - mile 24.00: RI 103
 East Providence - mile 25.40: RI 114
 East Providence - mile 25.50: I-195
-East Providence - mile 25.70: US 1A
+East Providence - mile 25.70: RI 1A
+East Providence - mile 26.50: US 6 (Massachusetts)

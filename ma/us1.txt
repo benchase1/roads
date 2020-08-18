@@ -1,3 +1,4 @@
+Attleboro - mile 0.00: US 1 (Rhode Island)
 Attleboro - mile 0.29: I-95
 Attleboro - mile 1.85: MA 123
 Attleboro - mile 2.04: MA 1A
@@ -38,3 +39,4 @@ Newburyport - mile 81.62: MA 1A / MA 113
 Salisbury - mile 83.63: MA 110
 Salisbury - mile 83.81: MA 1A
 Salisbury - mile 85.95: MA 286
+Salisbury - mile 86.25: US 1 (New Hampshire)

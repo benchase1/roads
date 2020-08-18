@@ -22,3 +22,4 @@ Andover - mile 39.20: MA 133
 Andover - mile 40.52: I-495
 Methuen - mile 43.47: MA 110 / MA 113
 Methuen - mile 45.48: MA 213
+Methuen - mile 47.07: I-93 (New Hampshire)

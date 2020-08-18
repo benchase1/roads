@@ -1,3 +1,4 @@
+Westerly - mile 0.00: US 1 (Connecticut)
 Westerly - mile 0.10: RI 1A
 Westerly - mile 0.30: RI 3
 Westerly - mile 2.20: RI 78
@@ -40,3 +41,4 @@ Pawtucket - mile 54.10: RI 122
 Pawtucket - mile 55.30: I-95
 Pawtucket - mile 55.50: RI 114
 Pawtucket - mile 56.10: I-95
+Pawtucket - mile 57.20: US 1 (Massachusetts)
