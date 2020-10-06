@@ -6,13 +6,13 @@ public class roads {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 
-    System.out.print("Enter state: ");
-    String state = input.nextLine();
+    System.out.print("Enter region: ");
+    String region = input.nextLine();
     System.out.print("Enter route: ");
     String road = input.nextLine();
 
     try {
-      File obj = new File(state + "/" + road + ".txt");
+      File obj = new File(region + "/" + road + ".txt");
       Scanner read = new Scanner(obj);
       while (read.hasNextLine()) {
         String data = read.nextLine();
