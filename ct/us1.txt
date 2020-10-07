@@ -1,0 +1,82 @@
+Greenwich - mile 0.00: US 1 (New York)
+Greenwich - mile 4.83: I-95
+Stamford - mile 6.93: CT 137
+Stamford - mile 8.60: CT 106
+Stamford - mile 8.66: I-95
+Darien - mile 11.17: I-95
+Darien - mile 11.56: CT 136
+Darien - mile 11.66: CT 124
+Darien - mile 12.69: I-95
+Norwalk - mile 14.24: I-95
+Norwalk - mile 15.73: US 7
+Norwalk - mile 16.17: CT 123
+Norwalk - mile 16.54: CT 53
+Westport - mile 19.22: CT 33
+Westport - mile 19.83: CT 136
+Fairfield - mile 23.31: I-95
+Fairfield - mile 25.51: CT 135
+Fairfield - mile 26.35: I-95
+Fairfield - mile 27.16: I-95
+Fairfield - mile 28.15: CT 58
+Bridgeport - mile 28.68: CT 59
+Bridgeport - mile 30.16: CT 8 / CT 25
+Bridgeport - mile 31.43: CT 127
+Stratford - mile 34.03: CT 108
+Stratford - mile 34.20: CT 113
+Stratford - mile 34.86: CT 130
+Stratford - mile 35.00: I-95
+Stratford - mile 35.06: CT 110
+Milford - mile 36.31: I-95
+Milford - mile 37.33: CT 162
+Milford - mile 38.91: CT 15
+Milford - mile 39.20: CT 121
+Milford - mile 40.01: I-95
+Orange - mile 42.25: CT 152
+Orange - mile 43.20: CT 114
+Orange - mile 43.95: CT 162
+West Haven - mile 46.06: CT 122
+New Haven - mile 46.64: CT 10
+New Haven - mile 48.53: I-91 / I-95
+New Haven - mile 50.25: CT 337
+East Haven - mile 50.94: I-95
+East Haven - mile 51.79: CT 142
+East Haven - mile 52.06: CT 100
+Branford - mile 53.85: CT 142
+Branford - mile 53.96: I-95
+Branford - mile 54.06: CT 146
+Branford - mile 56.82: I-95
+Branford - mile 57.06: CT 139
+Guilford - mile 59.21: CT 22
+Guilford - mile 61.76: I-95
+Guilford - mile 63.07: CT 77
+Guilford - mile 64.35: CT 146
+Madison - mile 67.85: CT 79
+Clinton - mile 71.67: CT 81
+Clinton - mile 72.52: CT 145
+Westbrook - mile 76.25: CT 153
+Old Saybrook - mile 78.19: CT 166
+Old Saybrook - mile 79.52: CT 154
+Old Saybrook - mile 80.52: CT 154
+Old Saybrook - mile 80.95: CT 154
+Old Saybrook - mile 81.98: I-95
+Old Saybrook - mile 82.28: CT 9
+Old Lyme - mile 83.10: I-95 / CT 156
+Old Lyme - mile 83.53: CT 156
+East Lyme - mile 92.46: CT 161
+East Lyme - mile 92.97: I-95
+East Lyme - mile 97.36: CT 156
+New London - mile 98.70: CT 213
+New London - mile 99.99: CT 85
+New London - mile 100.89: CT 32
+New London - mile 101.03: I-95
+Groton - mile 102.58: I-95 / CT 12
+Groton - mile 103.22: CT 349
+Groton - mile 105.55: CT 117
+Groton - mile 106.47: CT 215
+Groton - mile 108.98: CT 215
+Stonington - mile 109.67: CT 27
+Stonington - mile 112.48: US 1A
+Stonington - mile 113.63: US 1A
+Stonington - mile 116.78: US 1A
+Stonington - mile 117.24: CT 2
+Stonington - mile 117.37: US 1 (Rhode Island)
