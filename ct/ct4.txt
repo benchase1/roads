@@ -1,0 +1,20 @@
+Sharon - mile 0.00: CT 41 / CT 343
+Sharon - mile 7.64: US 7
+Cornwall - mile 7.89: US 7
+Cornwall - mile 11.30: CT 125
+Cornwall - mile 12.31: CT 43 / CT 128
+Goshen - mile 17.60: CT 63
+Torrington - mile 22.19: CT 272
+Torrington - mile 24.07: CT 8
+Torrington - mile 24.18: US 202
+Torrington - mile 24.30: US 202
+Torrington - mile 25.70: CT 183
+Harwinton - mile 28.12: CT 118
+Harwinton - mile 30.25: CT 72
+Burlington - mile 33.46: CT 69
+Burlington - mile 36.24: CT 179
+Farmington - mile 38.84: CT 177
+Farmington - mile 39.10: CT 167
+Farmington - mile 42.77: CT 10
+Farmington - mile 43.74: I-84
+West Hartford - mile 46.72: Farmington Avenue

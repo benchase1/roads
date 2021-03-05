@@ -1,0 +1,31 @@
+Hartford - mile 0.00: Columbus Boulevard
+Hartford - mile 0.03: I-91
+East Hartford - mile 0.88: I-84
+East Hartford - mile 1.35: US 5 / CT 15
+East Hartford - mile 4.41: CT 3
+Glastonbury - mile 5.07: CT 17
+Glastonbury - mile 5.66: CT 94
+Glastonbury - mile 9.94: CT 83
+Marlborough - mile 15.44: CT 66
+Colchester - mile 20.38: CT 149
+Colchester - mile 23.70: CT 16
+Colchester - mile 24.35: CT 11
+Colchester - mile 25.05: CT 354
+Bozrah - mile 33.32: CT 163
+Norwich - mile 35.98: CT 32
+Norwich - mile 37.00: I-395 / CT 2A
+Norwich - mile 38.15: CT 169
+Norwich - mile 39.52: CT 32 / CT 82
+Norwich - mile 39.88: CT 12
+Norwich - mile 40.19: CT 12
+Norwich - mile 40.52: CT 165
+Preston - mile 42.95: CT 2A / CT 117
+Preston - mile 45.70: CT 164
+Ledyard - mile 48.20: CT 214
+North Stonington - mile 50.33: CT 201
+North Stonington - mile 51.11: CT 201
+North Stonington - mile 54.29: CT 184
+North Stonington - mile 55.24: I-95
+Stonington - mile 56.01: CT 49
+Stonington - mile 56.67: CT 78
+Stonington - mile 58.03: US 1
