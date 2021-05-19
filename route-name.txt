@@ -1,0 +1,256 @@
+US 1 (Connecticut)
+US 1A (Connecicut)
+CT 2
+CT 2A
+CT 3
+CT 4
+US 1 (Massachusetts)
+MA 1A (Attleboro, MA)
+MA 1A (Boston, MA)
+MA 1A (North Attleboro, MA)
+MA 2
+MA 2A (Buckland, MA)
+MA 2A (Erving, MA)
+MA 2A (Greenfield, MA)
+US 3 (Massachusetts)
+MA 3
+MA 3A (Burlington, MA)
+MA 3A (Plymouth, MA)
+MA 4
+US 5 (Massachusetts)
+US 6 (Massachusetts)
+MA 6A (Bourne, MA)
+MA 6A (Truro, MA)
+US 7 (Massachusetts)
+MA 7A (Lenox, MA)
+MA 7A (Sheffield, MA)
+MA 8
+MA 8A-L
+MA 8A-U
+MA 9
+MA 10
+MA 12
+MA 13
+MA 14
+MA 16
+MA 18
+MA 19
+US 20 (Massachusetts)
+MA 20A
+MA 21
+MA 22
+MA 23
+MA 24
+MA 25
+MA 27
+MA 28
+MA 28A
+MA 30
+MA 31
+MA 32
+MA 32A
+MA 33
+MA 35
+MA 36
+MA 37
+MA 38
+MA 39
+MA 40
+MA 41
+MA 43
+US 44 (Massachusetts)
+MA 47
+MA 49
+MA 53
+MA 56
+MA 57
+MA 58
+MA 60
+MA 62
+MA 63
+MA 66
+MA 67
+MA 68
+MA 70
+MA 71
+MA 75
+MA 78
+MA 79
+MA 80
+MA 81
+MA 83
+I-84 (Massachusetts)
+MA 85
+MA 88
+I-90 (Massachusetts)
+I-91 (Massachusetts)
+I-93 (Massachusetts)
+I-95 (Massachusetts)
+MA 96
+MA 97
+MA 98
+MA 99
+MA 101
+MA 102
+MA 103
+MA 104
+MA 105
+MA 106
+MA 107
+MA 108
+MA 109
+MA 110
+MA 111
+MA 112
+MA 113
+MA 114
+MA 114A
+MA 115
+MA 116
+MA 117
+MA 118
+MA 119
+MA 120
+MA 121
+MA 122
+MA 122A
+MA 123
+MA 124
+MA 125
+MA 126
+MA 127
+MA 127A
+MA 128
+MA 129
+MA 129A
+MA 130
+MA 131
+MA 132
+MA 133
+MA 134
+MA 135
+MA 136
+MA 137
+MA 138
+MA 139
+MA 140
+MA 141
+MA 142
+MA 143
+MA 145
+MA 146
+MA 146A
+MA 147
+MA 148
+MA 149
+MA 150
+MA 151
+MA 152
+MA 159
+MA 168
+MA 169
+MA 177
+MA 181
+MA 183
+MA 186
+MA 187
+MA 189
+I-190 (Massachusetts)
+MA 192
+MA 193
+I-195 (Massachusetts)
+MA 197
+MA 198
+US 202 (Massachusetts)
+MA 203
+MA 213
+MA 220
+MA 225
+MA 228
+MA 240
+MA 286
+I-290 (Massachusetts)
+I-291 (Massachusetts)
+I-295 (Massachusetts)
+MA 295
+I-391 (Massachusetts)
+I-395 (Massachusetts)
+I-495 (Massachusetts)
+Lowell Connector (Massachusetts)
+Soldiers Field Road (Massachusetts)
+Storrow Drive (Massachusetts)
+US 1 (Rhode Island)
+US 1 Business  (Rhode Island)
+RI 1A (Charlestown, RI)
+RI 1A (South Kingstown, RI)
+RI 1A (Warwick, RI)
+RI 1A (Westerly, RI)
+RI 2
+RI 3
+RI 4
+RI 5
+US 6 (Rhode Island)
+US 6 Business (Rhode Island)
+US 6A (Rhode Island)
+RI 7
+RI 10
+RI 12
+RI 14
+RI 15
+RI 24
+RI 33
+RI 37
+US 44 (Rhode Island)
+RI 51
+RI 77
+RI 78
+RI 81
+RI 91
+RI 94
+I-95 (Rhode Island)
+RI 96
+RI 98
+RI 99
+RI 100
+RI 101
+RI 102
+RI 103
+RI 103A
+RI 104
+RI 107
+RI 108
+RI 110
+RI 112
+RI 113
+RI 114
+RI 114A (East Providence, RI (North))
+RI 114A (East Providence, RI (South))
+RI 115
+RI 116
+RI 117
+RI 117A
+RI 118
+RI 120
+RI 121
+RI 122
+RI 123
+RI 126
+RI 128
+RI 136
+RI 138
+RI 138A
+RI 146
+RI 146A
+RI 152
+RI 165
+RI 177
+RI 179
+I-195 (Rhode Island)
+RI 214
+RI 216
+RI 238
+RI 246
+I-295 (Rhode Island)
+RI 401
+RI 402
+RI 403
