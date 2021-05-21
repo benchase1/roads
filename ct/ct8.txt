@@ -1,0 +1,26 @@
+Bridgeport - mile 0.00: I-95
+Bridgeport - mile 0.80: CT 130
+Bridgeport - mile 2.80: US 1
+Bridgeport - mile 3.75: CT 25
+Trumbull - mile 4.17: CT 127
+Trumbull - mile 5.51: CT 15
+Trumbull - mile 6.25: CT 15
+Shelton - mile 12.28: CT 110
+Derby - mile 12.84: CT 34
+Ansonia - mile 15.79: CT 334
+Seymour - mile 18.68: CT 67
+Beacon Falls - mile 21.09: CT 42
+Naugatuck - mile 25.27: CT 63
+Waterbury - mile 30.21: I-84
+Waterbury - mile 30.38: I-84
+Waterbury - mile 31.22: CT 73
+Watertown - mile 34.31: CT 262
+Thomaston - mile 38.24: US 6 / CT 109
+Thomaston - mile 39.70: US 6 / CT 222
+Thomaston - mile 40.36: CT 222
+Litchfield - mile 46.82: CT 118
+Torrington - mile 49.93: US 202 / CT 4
+Winchester - mile 58.51: US 44 / CT 183
+Winchester - mile 58.84: US 44 / CT 183
+Winchester - mile 60.67: CT 20
+Colebrook - mile 67.36: MA 8

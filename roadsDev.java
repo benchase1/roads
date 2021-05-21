@@ -250,6 +250,11 @@ public class roadsDev
 
           else
           {
+            System.out.println("1. Add intermediate junction");
+            System.out.println("2. Replace junction");
+            System.out.print("Choice: ");
+            int editChoice = in.nextInt();
+            in.nextLine(); // absorb enter key
             System.out.println("Junction " + (jctBefore + 1) + ":");
             System.out.print("Enter place: ");
             jctPlace = in.nextLine();
@@ -257,7 +262,16 @@ public class roadsDev
             jctMile = in.nextLine();
             System.out.print("Enter info: ");
             jctInfo = in.nextLine();
-            junctions.add(jctBefore, jctPlace + " - mile " + jctMile + ": " + jctInfo);
+
+            if (editChoice == 1)
+            {
+              junctions.add(jctBefore, jctPlace + " - mile " + jctMile + ": " + jctInfo);
+            }
+            else if (editChoice == 2)
+            {
+              junctions.remove(jctBefore);
+              junctions.add(jctBefore, jctPlace + " - mile " + jctMile + ": " + jctInfo);
+            }
           }
 
           try
@@ -276,6 +290,8 @@ public class roadsDev
           catch (IOException e)
           {
           }
+
+          choice = 4;
         }
 		
 		if (choice == 4)
@@ -323,10 +339,10 @@ public class roadsDev
 		    fileWriter2.append("<head>");
 		    fileWriter2.append("<title>Road Browser - Roads Database</title>");
 		    fileWriter2.append("</head>");
-	  	  fileWriter2.append("<body>");
+	  	  fileWriter2.append("<body>" + "\n");
 		    fileWriter2.append("<table>");
 		    fileWriter2.append("<tr><th>Road Name</th>");
-		    fileWriter2.append("<th>Road Code</th></tr>");
+		    fileWriter2.append("<th>Road Code</th></tr>" + "\n");
 
 		  for (int j = 0; j < roadNames.size(); j++)
 		  {
@@ -353,7 +369,7 @@ public class roadsDev
       System.out.print("Enter change: ");
       String updateChange = s.nextLine();
       homepage.remove(9);
-      homepage.add(9, "<p>This database was last updated on " + updateDate + ".</p>");
+      homepage.add(9, "<p>This database was last updated on <b>" + updateDate + "</b>.</p>");
       changelog.add(3, "<p><b>" + updateDate + "</b><br>");
       changelog.add(4, updateChange + "</p>");
 

@@ -1,0 +1,63 @@
+Danbury - mile 0.00: US 6 / US 202 (New York)
+Danbury - mile 4.15: I-84 / US 7
+Danbury - mile 5.61: CT 37 / CT 39 / CT 53
+Danbury - mile 6.25: CT 37
+Danbury - mile 7.97: US 7 / US 202
+Danbury - mile 8.26: I-84
+Newtown - mile 11.45: CT 25
+Newtown - mile 14.26: CT 25
+Newtown - mile 15.52: I-84
+Newtown - mile 16.33: CT 34
+Southbury - mile 20.40: CT 172
+Southbury - mile 22.08: I-84 / CT 67
+Southbury - mile 23.76: CT 67
+Woodbury - mile 25.94: CT 64
+Woodbury - mile 26.90: CT 317
+Woodbury - mile 27.60: CT 47
+Woodbury - mile 31.48: CT 61
+Watertown - mile 34.57: CT 63
+Watertown - mile 35.81: CT 262
+Thomaston - mile 38.61: CT 109
+Thomaston - mile 39.12: CT 254
+Thomaston - mile 39.40: CT 8
+Thomaston - mile 40.39: CT 8
+Thomaston - mile 40.61: CT 222
+Plymouth - mile 41.28: CT 262
+Plymouth - mile 44.15: CT 72
+Bristol - mile 46.86: CT 69
+Bristol - mile 47.25: CT 69
+Bristol - mile 48.30: CT 229
+Farmington - mile 50.95: CT 177
+Farmington - mile 53.09: CT 10
+Farmington - mile 56.13: I-84
+Farmington - mile 56.21: CT 4
+Farmington - mile 57.42: CT 9
+West Hartford - mile 58.19: CT 71
+Hartford - mile 64.24: US 44
+Hartford - mile 64.30: I-91
+Hartford - mile 64.43: I-91
+East Hartford - mile 64.87: US 44
+East Hartford - mile 65.19: CT 2
+East Hartford - mile 65.26: CT 2
+East Hartford - mile 65.29: I-84
+East Hartford - mile 66.76: CT 15
+East Hartford - mile 68.35: I-384
+Manchester - mile 69.90: I-84 / US 44
+Manchester - mile 72.67: CT 83
+Bolton - mile 75.83: CT 85
+Bolton - mile 76.62: I-384
+Bolton - mile 76.95: US 44
+Andover - mile 82.68: CT 316
+Andover - mile 83.91: CT 87
+Columbia - mile 87.81: CT 66
+Windham - mile 89.72: CT 32
+Mansfield - mile 91.94: CT 195
+Windham - mile 93.15: CT 66
+Windham - mile 95.00: CT 203
+Chaplin - mile 96.96: CT 198
+Hampton - mile 101.30: CT 97
+Brooklyn - mile 107.44: CT 169
+Killingly - mile 110.96: CT 12
+Killingly - mile 111.31: CT 12
+Killingly - mile 111.80: I-395
+Killingly - mile 116.33: US 6 (Rhode Island)

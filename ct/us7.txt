@@ -1,0 +1,33 @@
+Norwalk - mile 0.00: I-95
+Norwalk - mile 1.18: US 1
+Norwalk - mile 1.83: CT 123
+Norwalk - mile 2.93: CT 15
+Wilton - mile 6.03: CT 33
+Wilton - mile 6.29: CT 106
+Wilton - mile 6.47: CT 106
+Wilton - mile 7.30: CT 33
+Georgetown - mile 11.65: CT 57 / 107
+Ridgefield - mile 12.56: CT 102
+Ridgefield - mile 16.88: CT 35
+Danbury - mile 21.56: I-84
+Danbury - mile 21.63: US 6 / US 202
+Danbury - mile 23.14: CT 37 / CT 39 / CT 53
+Danbury - mile 23.71: CT 37
+Danbury - mile 25.26: I-84 / US 6
+Brookfield - mile 26.55: US 202
+Brookfield - mile 29.88: US 202
+Brookfield - mile 31.82: US 202
+New Milford - mile 37.24: US 202 / CT 67
+New Milford - mile 39.93: CT 37
+New Milford - mile 44.36: CT 55
+Kent - mile 50.88: CT 341
+Cornwall - mile 58.74: CT 45
+Cornwall - mile 59.87: CT 4
+Sharon - mile 60.12: CT 4
+Sharon - mile 64.27: CT 128
+Salisbury - mile 68.83: CT 112
+Canaan - mile 70.62: CT 126
+Canaan - mile 71.90: CT 63
+North Canaan - mile 76.46: US 44
+North Canaan - mile 76.80: US 44
+North Canaan - mile 78.29: US 7 (Massachusetts)

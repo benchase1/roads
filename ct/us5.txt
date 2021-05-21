@@ -1,0 +1,39 @@
+New Haven - mile 0.00: I-91
+North Haven - mile 4.74: CT 40
+North Haven - mile 5.82: CT 22
+North Haven - mile 6.21: I-91
+North Haven - mile 6.48: CT 22 / CT 103
+North Haven - mile 7.19: I-91
+Wallingford - mile 11.42: CT 150
+Wallingford - mile 13.58: CT 68
+Wallingford - mile 13.96: CT 15
+Wallingford - mile 14.42: CT 71
+Wallingford - mile 14.88: CT 150
+Meriden - mile 17.81: I-691 / CT 66
+Meriden - mile 19.30: CT 15
+Berlin - mile 24.17: CT 9
+Berlin - mile 25.17: CT 160
+Newington - mile 26.67: CT 173
+Newington - mile 27.29: CT 176
+Newington - mile 28.68: CT 287
+Newington - mile 28.75: CT 287
+Wethersfield - mile 29.38: CT 175
+Wethersfield - mile 30.30: CT 314
+Wethersfield - mile 32.22: CT 99
+Hartford - mile 32.80: I-91
+Hartford - mile 33.19: I-91
+East Hartford - mile 34.36: CT 2 / CT 15
+East Hartford - mile 35.47: I-84
+East Hartford - mile 35.82: US 44
+East Hartford - mile 36.18: US 44
+South Windsor - mile 38.63: CT 30
+South Windsor - mile 38.75: I-291
+South Windsor - mile 42.49: CT 194
+East Windsor - mile 44.96: CT 191
+East Windsor - mile 46.73: I-91
+East Windsor - mile 47.75: CT 140
+Enfield - mile 49.31: I-91
+Enfield - mile 52.04: CT 190
+Enfield - mile 52.61: CT 220
+Enfield - mile 54.25: I-91
+Enfield - mile 54.59: US 5 (Massachusetts)
