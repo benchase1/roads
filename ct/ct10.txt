@@ -1,0 +1,28 @@
+New Haven - mile 0.00: I-95
+New Haven - mile 1.29: US 1
+New Haven - mile 1.87: CT 34
+New Haven - mile 2.20: CT 34
+New Haven - mile 3.42: CT 63
+Hamden - mile 7.03: CT 15
+Hamden - mile 10.05: CT 40
+Hamden - mile 10.27: CT 22
+Cheshire - mile 15.77: CT 42
+Cheshire - mile 16.94: CT 68 / CT 70
+Cheshire - mile 17.09: CT 68 / CT 70
+Cheshire - mile 20.99: I-691
+Southington - mile 21.55: CT 322
+Southington - mile 22.25: I-84
+Southington - mile 24.28: CT 120
+Southington - mile 26.75: I-84
+Plainville - mile 28.09: CT 177
+Plainville - mile 29.82: CT 372
+Farmington - mile 32.35: US 6
+Farmington - mile 33.85: CT 4
+Avon - mile 39.42: US 44
+Avon - mile 40.16: US 44 / US 202
+Simsbury - mile 42.99: CT 185
+Simsbury - mile 44.75: CT 167
+Simsbury - mile 46.81: CT 315
+Granby - mile 50.84: CT 189
+Granby - mile 50.92: CT 20 / CT 189
+Granby - mile 54.28: US 202 / MA 10

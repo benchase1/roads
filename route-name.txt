@@ -9,6 +9,11 @@ US 6 (Connecticut)
 US 7 (Connecticut)
 CT 8
 CT 9
+CT 10
+CT 11
+CT 12
+CT 14
+CT 14A
 US 1 (Massachusetts)
 MA 1A (Attleboro, MA)
 MA 1A (Boston, MA)
